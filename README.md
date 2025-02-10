@@ -1,46 +1,74 @@
-# 🔍 Data Analysis Projects Portfolio
+# 🎯 Data Analysis Projects Portfolio
 
-Welcome to my Data Analysis Projects repository! This collection showcases various data analysis projects demonstrating my skills in data manipulation, visualization, and insights generation.
+> A curated collection of data analysis projects showcasing expertise in various tools, techniques and real-world applications.
 
-## 🛠️ Tools & Technologies
+## 🔍 Project Categories
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### 📊 Automated EDA
+[![AutoViz](https://img.shields.io/badge/AutoViz-Analysis-blue)]()
+[![D-Tale](https://img.shields.io/badge/D--Tale-Interactive-green)]()
+[![Sweetviz](https://img.shields.io/badge/Sweetviz-Reports-orange)]()
+[![Ydata](https://img.shields.io/badge/Ydata-Profiling-red)]()
 
-## 📊 Projects
+### 🛒 E-Commerce Analysis
+- 📈 Sales Performance Analytics
+- 👥 Customer Behavior Insights
+- 📦 Product Category Performance
+- 🌍 Regional Analysis (Superstore Dataset)
 
-1. *HR Data Analysis*
-2. *E-Commerce Data Analysis*
+### 👥 HR Analytics
+- 📅 Attendance Patterns
+- 📊 Interactive Power BI Dashboard
+- 🎯 Performance Metrics
+- 📈 Workforce Analytics
 
-*Projects will be listed here as they are added. Each project includes:*
-- Detailed analysis
-- Interactive visualizations
-- Key findings and insights
-- Source code and documentation
+### 💾 SQL Data Analysis
+- 🦠 COVID-19 Data Analysis
+- 🔄 MySQL Integration
+- ⚡ Data Ingestion Workflows
+- 🔍 Query Optimization
 
-## 🚀 Coming Soon
+### 🚗 Uber Data Analysis
+- 📊 Ride Pattern Analysis
+- 🗺️ Geographic Distribution
+- ⏰ Time-series Analysis
+- 👥 Customer Insights
 
-- Uber Data Analysis
-- Zomato Data Analysis
+## ⚙️ Tech Stack
 
-Stay tuned for upcoming projects! Follow this repository to get updates on new analyses.
+### 🔧 Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-## 📝 How to Use
+### 📚 Libraries
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]()
+[![AutoViz](https://img.shields.io/badge/AutoViz-FF6B6B?style=for-the-badge&logo=python&logoColor=white)]()
 
-1. Clone this repository
-2. Each project is contained in its own directory
-3. Each Project has either a Jupyter Notebook, PowerBi or Tableau Dashboard
+### 🛠️ Tools
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
 
-## 📫 Contact
 
-Feel free to connect with me for any questions or collaborations!
+## 🚀 Quick Start
 
----
-*This repository is actively maintained and updated regularly with new projects.*
+```bash
+# Clone repository
+git clone https://github.com/yourusername/DATA-ANALYSIS-PROJECTS.git
+```
+## Regarding this Repository
+This Repository is maintained regularly, and more cool projects are coming in near future. If you like the repo please consider giving it a star.
 
----
-*If you find this Repository helpful, please give a star to it*
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kabyik-kayal/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:scientistk001@gmail.com)
+
+## 📄 License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](License)
