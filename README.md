@@ -59,7 +59,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/DATA-ANALYSIS-PROJECTS.git
+git clone https://github.com/Kabyik-Kayal/DATA-ANALYSIS-PROJECTS.git
 ```
 ## Regarding this Repository
 This Repository is maintained regularly, and more cool projects are coming in near future. If you like the repo please consider giving it a star.
