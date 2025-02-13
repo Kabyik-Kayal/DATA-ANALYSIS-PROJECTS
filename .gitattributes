@@ -12,10 +12,6 @@
 /build/ linguist-vendored
 /reports/ linguist-vendored
 
-# Exclude specific HTML patterns
-*.report.html linguist-generated
-*.Report.html linguist-generated
-*_export.html linguist-generated
-
-# Allow only intentional HTML
-!/src/*.html  # Keep HTML in src/
+# Exclude all HTML files from language statistics
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
