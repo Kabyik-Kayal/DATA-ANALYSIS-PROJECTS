@@ -1,0 +1,1268 @@
+[
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"HighestInfectionCount" : 13232,
+		"PercentPopulationInfected" : 17.125477253607713
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"HighestInfectionCount" : 97389,
+		"PercentPopulationInfected" : 15.506271673815641
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"HighestInfectionCount" : 1630758,
+		"PercentPopulationInfected" : 15.22794603632726
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"HighestInfectionCount" : 5066,
+		"PercentPopulationInfected" : 14.92722022511639
+	},
+	{
+		"Location" : "Slovenia",
+		"Population" : 2078932,
+		"HighestInfectionCount" : 240292,
+		"PercentPopulationInfected" : 11.558434811720634
+	},
+	{
+		"Location" : "Luxembourg",
+		"Population" : 625976,
+		"HighestInfectionCount" : 67205,
+		"PercentPopulationInfected" : 10.736034608355592
+	},
+	{
+		"Location" : "Bahrain",
+		"Population" : 1701583,
+		"HighestInfectionCount" : 176934,
+		"PercentPopulationInfected" : 10.398199793956568
+	},
+	{
+		"Location" : "Serbia",
+		"Population" : 6804596,
+		"HighestInfectionCount" : 689557,
+		"PercentPopulationInfected" : 10.133694932072382
+	},
+	{
+		"Location" : "United States",
+		"Population" : 331002647,
+		"HighestInfectionCount" : 32346971,
+		"PercentPopulationInfected" : 9.772420641699581
+	},
+	{
+		"Location" : "Israel",
+		"Population" : 8655541,
+		"HighestInfectionCount" : 838481,
+		"PercentPopulationInfected" : 9.687216547180586
+	},
+	{
+		"Location" : "Sweden",
+		"Population" : 10099270,
+		"HighestInfectionCount" : 973604,
+		"PercentPopulationInfected" : 9.640340341430619
+	},
+	{
+		"Location" : "Estonia",
+		"Population" : 1326539,
+		"HighestInfectionCount" : 122019,
+		"PercentPopulationInfected" : 9.198297223074482
+	},
+	{
+		"Location" : "Lithuania",
+		"Population" : 2722291,
+		"HighestInfectionCount" : 247269,
+		"PercentPopulationInfected" : 9.083121532562096
+	},
+	{
+		"Location" : "Netherlands",
+		"Population" : 17134873,
+		"HighestInfectionCount" : 1522973,
+		"PercentPopulationInfected" : 8.888148747878084
+	},
+	{
+		"Location" : "Belgium",
+		"Population" : 11589616,
+		"HighestInfectionCount" : 990229,
+		"PercentPopulationInfected" : 8.544105343956176
+	},
+	{
+		"Location" : "Panama",
+		"Population" : 4314768,
+		"HighestInfectionCount" : 364576,
+		"PercentPopulationInfected" : 8.449492533549892
+	},
+	{
+		"Location" : "France",
+		"Population" : 68147687,
+		"HighestInfectionCount" : 5677835,
+		"PercentPopulationInfected" : 8.33166208561121
+	},
+	{
+		"Location" : "Portugal",
+		"Population" : 10196707,
+		"HighestInfectionCount" : 836493,
+		"PercentPopulationInfected" : 8.203560227826493
+	},
+	{
+		"Location" : "Croatia",
+		"Population" : 4105268,
+		"HighestInfectionCount" : 332183,
+		"PercentPopulationInfected" : 8.091627635516122
+	},
+	{
+		"Location" : "Hungary",
+		"Population" : 9660350,
+		"HighestInfectionCount" : 779348,
+		"PercentPopulationInfected" : 8.067492378640525
+	},
+	{
+		"Location" : "Georgia",
+		"Population" : 3989175,
+		"HighestInfectionCount" : 310310,
+		"PercentPopulationInfected" : 7.778801381237975
+	},
+	{
+		"Location" : "Lebanon",
+		"Population" : 6825442,
+		"HighestInfectionCount" : 526578,
+		"PercentPopulationInfected" : 7.714928937935447
+	},
+	{
+		"Location" : "Liechtenstein",
+		"Population" : 38137,
+		"HighestInfectionCount" : 2926,
+		"PercentPopulationInfected" : 7.672339198154024
+	},
+	{
+		"Location" : "Switzerland",
+		"Population" : 8654618,
+		"HighestInfectionCount" : 659974,
+		"PercentPopulationInfected" : 7.625686078807868
+	},
+	{
+		"Location" : "Spain",
+		"Population" : 46754783,
+		"HighestInfectionCount" : 3524077,
+		"PercentPopulationInfected" : 7.537361471659487
+	},
+	{
+		"Location" : "Cyprus",
+		"Population" : 875899,
+		"HighestInfectionCount" : 65233,
+		"PercentPopulationInfected" : 7.447548176216665
+	},
+	{
+		"Location" : "Poland",
+		"Population" : 37846605,
+		"HighestInfectionCount" : 2792142,
+		"PercentPopulationInfected" : 7.377523030137049
+	},
+	{
+		"Location" : "North Macedonia",
+		"Population" : 2083380,
+		"HighestInfectionCount" : 152367,
+		"PercentPopulationInfected" : 7.313452178671199
+	},
+	{
+		"Location" : "Armenia",
+		"Population" : 2963234,
+		"HighestInfectionCount" : 216064,
+		"PercentPopulationInfected" : 7.291493010676849
+	},
+	{
+		"Location" : "Qatar",
+		"Population" : 2881060,
+		"HighestInfectionCount" : 205652,
+		"PercentPopulationInfected" : 7.138067239141149
+	},
+	{
+		"Location" : "Slovakia",
+		"Population" : 5459643,
+		"HighestInfectionCount" : 382211,
+		"PercentPopulationInfected" : 7.000659200610736
+	},
+	{
+		"Location" : "Jordan",
+		"Population" : 10203140,
+		"HighestInfectionCount" : 711373,
+		"PercentPopulationInfected" : 6.9720987852759055
+	},
+	{
+		"Location" : "Brazil",
+		"Population" : 212559409,
+		"HighestInfectionCount" : 14659011,
+		"PercentPopulationInfected" : 6.896430070522072
+	},
+	{
+		"Location" : "Austria",
+		"Population" : 9006400,
+		"HighestInfectionCount" : 618870,
+		"PercentPopulationInfected" : 6.871446971042813
+	},
+	{
+		"Location" : "Malta",
+		"Population" : 441539,
+		"HighestInfectionCount" : 30292,
+		"PercentPopulationInfected" : 6.860549124765876
+	},
+	{
+		"Location" : "Italy",
+		"Population" : 60461828,
+		"HighestInfectionCount" : 4022653,
+		"PercentPopulationInfected" : 6.653211014394074
+	},
+	{
+		"Location" : "Argentina",
+		"Population" : 45195777,
+		"HighestInfectionCount" : 2977363,
+		"PercentPopulationInfected" : 6.587701766915082
+	},
+	{
+		"Location" : "United Kingdom",
+		"Population" : 67886004,
+		"HighestInfectionCount" : 4432246,
+		"PercentPopulationInfected" : 6.528954038891434
+	},
+	{
+		"Location" : "Kuwait",
+		"Population" : 4270563,
+		"HighestInfectionCount" : 273991,
+		"PercentPopulationInfected" : 6.415805129206617
+	},
+	{
+		"Location" : "Latvia",
+		"Population" : 1886202,
+		"HighestInfectionCount" : 118558,
+		"PercentPopulationInfected" : 6.285540997199663
+	},
+	{
+		"Location" : "Chile",
+		"Population" : 19116209,
+		"HighestInfectionCount" : 1198245,
+		"PercentPopulationInfected" : 6.2682145816673165
+	},
+	{
+		"Location" : "Monaco",
+		"Population" : 39244,
+		"HighestInfectionCount" : 2454,
+		"PercentPopulationInfected" : 6.253185200285394
+	},
+	{
+		"Location" : "Moldova",
+		"Population" : 4033963,
+		"HighestInfectionCount" : 250837,
+		"PercentPopulationInfected" : 6.218128426066377
+	},
+	{
+		"Location" : "Bosnia and Herzegovina",
+		"Population" : 3280815,
+		"HighestInfectionCount" : 198461,
+		"PercentPopulationInfected" : 6.049137180852928
+	},
+	{
+		"Location" : "Seychelles",
+		"Population" : 98340,
+		"HighestInfectionCount" : 5873,
+		"PercentPopulationInfected" : 5.972137482204596
+	},
+	{
+		"Location" : "Bulgaria",
+		"Population" : 6948445,
+		"HighestInfectionCount" : 404380,
+		"PercentPopulationInfected" : 5.819719376061839
+	},
+	{
+		"Location" : "Palestine",
+		"Population" : 5101416,
+		"HighestInfectionCount" : 296462,
+		"PercentPopulationInfected" : 5.811366883233989
+	},
+	{
+		"Location" : "Turkey",
+		"Population" : 84339067,
+		"HighestInfectionCount" : 4820591,
+		"PercentPopulationInfected" : 5.715727208601916
+	},
+	{
+		"Location" : "Uruguay",
+		"Population" : 3473727,
+		"HighestInfectionCount" : 198428,
+		"PercentPopulationInfected" : 5.71225084757668
+	},
+	{
+		"Location" : "Colombia",
+		"Population" : 50882884,
+		"HighestInfectionCount" : 2859724,
+		"PercentPopulationInfected" : 5.620208162729141
+	},
+	{
+		"Location" : "Maldives",
+		"Population" : 540542,
+		"HighestInfectionCount" : 29835,
+		"PercentPopulationInfected" : 5.519460097457737
+	},
+	{
+		"Location" : "Romania",
+		"Population" : 19237682,
+		"HighestInfectionCount" : 1055265,
+		"PercentPopulationInfected" : 5.485406193947899
+	},
+	{
+		"Location" : "Peru",
+		"Population" : 32971846,
+		"HighestInfectionCount" : 1799445,
+		"PercentPopulationInfected" : 5.457519727588197
+	},
+	{
+		"Location" : "Kosovo",
+		"Population" : 1932774,
+		"HighestInfectionCount" : 103638,
+		"PercentPopulationInfected" : 5.362137528754009
+	},
+	{
+		"Location" : "United Arab Emirates",
+		"Population" : 9890400,
+		"HighestInfectionCount" : 520236,
+		"PercentPopulationInfected" : 5.260009706381946
+	},
+	{
+		"Location" : "Ireland",
+		"Population" : 4937796,
+		"HighestInfectionCount" : 248870,
+		"PercentPopulationInfected" : 5.040102912311484
+	},
+	{
+		"Location" : "Costa Rica",
+		"Population" : 5094114,
+		"HighestInfectionCount" : 250991,
+		"PercentPopulationInfected" : 4.927078585206377
+	},
+	{
+		"Location" : "Ukraine",
+		"Population" : 43733759,
+		"HighestInfectionCount" : 2124070,
+		"PercentPopulationInfected" : 4.856820105493333
+	},
+	{
+		"Location" : "Albania",
+		"Population" : 2877800,
+		"HighestInfectionCount" : 131085,
+		"PercentPopulationInfected" : 4.555042046007367
+	},
+	{
+		"Location" : "Denmark",
+		"Population" : 5792203,
+		"HighestInfectionCount" : 251249,
+		"PercentPopulationInfected" : 4.33771053949594
+	},
+	{
+		"Location" : "Cape Verde",
+		"Population" : 555988,
+		"HighestInfectionCount" : 23882,
+		"PercentPopulationInfected" : 4.295416447837003
+	},
+	{
+		"Location" : "Germany",
+		"Population" : 83783945,
+		"HighestInfectionCount" : 3405365,
+		"PercentPopulationInfected" : 4.064460082417938
+	},
+	{
+		"Location" : "Paraguay",
+		"Population" : 7132530,
+		"HighestInfectionCount" : 279077,
+		"PercentPopulationInfected" : 3.912735032309713
+	},
+	{
+		"Location" : "Belarus",
+		"Population" : 9449321,
+		"HighestInfectionCount" : 358738,
+		"PercentPopulationInfected" : 3.7964420935641834
+	},
+	{
+		"Location" : "Oman",
+		"Population" : 5106622,
+		"HighestInfectionCount" : 193253,
+		"PercentPopulationInfected" : 3.7843607770459613
+	},
+	{
+		"Location" : "Vatican",
+		"Population" : 809,
+		"HighestInfectionCount" : 27,
+		"PercentPopulationInfected" : 3.3374536464771323
+	},
+	{
+		"Location" : "Greece",
+		"Population" : 10423056,
+		"HighestInfectionCount" : 345033,
+		"PercentPopulationInfected" : 3.3102863497999047
+	},
+	{
+		"Location" : "Russia",
+		"Population" : 145934460,
+		"HighestInfectionCount" : 4750755,
+		"PercentPopulationInfected" : 3.2554031446719303
+	},
+	{
+		"Location" : "Canada",
+		"Population" : 37742157,
+		"HighestInfectionCount" : 1228367,
+		"PercentPopulationInfected" : 3.254628504671845
+	},
+	{
+		"Location" : "Belize",
+		"Population" : 397621,
+		"HighestInfectionCount" : 12668,
+		"PercentPopulationInfected" : 3.1859484282771784
+	},
+	{
+		"Location" : "Azerbaijan",
+		"Population" : 10139175,
+		"HighestInfectionCount" : 319109,
+		"PercentPopulationInfected" : 3.1472876244862134
+	},
+	{
+		"Location" : "Iran",
+		"Population" : 83992953,
+		"HighestInfectionCount" : 2499077,
+		"PercentPopulationInfected" : 2.9753412765473315
+	},
+	{
+		"Location" : "South Africa",
+		"Population" : 59308690,
+		"HighestInfectionCount" : 1581210,
+		"PercentPopulationInfected" : 2.6660679910481924
+	},
+	{
+		"Location" : "Bahamas",
+		"Population" : 393248,
+		"HighestInfectionCount" : 10453,
+		"PercentPopulationInfected" : 2.6581190495565137
+	},
+	{
+		"Location" : "Iraq",
+		"Population" : 40222503,
+		"HighestInfectionCount" : 1065199,
+		"PercentPopulationInfected" : 2.648266319975164
+	},
+	{
+		"Location" : "Tunisia",
+		"Population" : 11818618,
+		"HighestInfectionCount" : 309119,
+		"PercentPopulationInfected" : 2.6155257746717933
+	},
+	{
+		"Location" : "Bolivia",
+		"Population" : 11673029,
+		"HighestInfectionCount" : 303732,
+		"PercentPopulationInfected" : 2.601998161745336
+	},
+	{
+		"Location" : "Libya",
+		"Population" : 6871287,
+		"HighestInfectionCount" : 177508,
+		"PercentPopulationInfected" : 2.583329731388021
+	},
+	{
+		"Location" : "Saint Lucia",
+		"Population" : 183629,
+		"HighestInfectionCount" : 4552,
+		"PercentPopulationInfected" : 2.4789112830762026
+	},
+	{
+		"Location" : "Dominican Republic",
+		"Population" : 10847904,
+		"HighestInfectionCount" : 266561,
+		"PercentPopulationInfected" : 2.457258102579079
+	},
+	{
+		"Location" : "Ecuador",
+		"Population" : 17643060,
+		"HighestInfectionCount" : 381862,
+		"PercentPopulationInfected" : 2.1643751140675143
+	},
+	{
+		"Location" : "Honduras",
+		"Population" : 9904608,
+		"HighestInfectionCount" : 212333,
+		"PercentPopulationInfected" : 2.1437799456576174
+	},
+	{
+		"Location" : "Norway",
+		"Population" : 5421242,
+		"HighestInfectionCount" : 112970,
+		"PercentPopulationInfected" : 2.0838398285854054
+	},
+	{
+		"Location" : "Kazakhstan",
+		"Population" : 18776707,
+		"HighestInfectionCount" : 375539,
+		"PercentPopulationInfected" : 2.0000258831327558
+	},
+	{
+		"Location" : "Botswana",
+		"Population" : 2351625,
+		"HighestInfectionCount" : 46934,
+		"PercentPopulationInfected" : 1.9958114070057937
+	},
+	{
+		"Location" : "World",
+		"Population" : 7794798729,
+		"HighestInfectionCount" : 151399480,
+		"PercentPopulationInfected" : 1.9423141669678896
+	},
+	{
+		"Location" : "Namibia",
+		"Population" : 2540916,
+		"HighestInfectionCount" : 48351,
+		"PercentPopulationInfected" : 1.9028964357735556
+	},
+	{
+		"Location" : "Iceland",
+		"Population" : 341250,
+		"HighestInfectionCount" : 6472,
+		"PercentPopulationInfected" : 1.8965567765567766
+	},
+	{
+		"Location" : "Mexico",
+		"Population" : 128932753,
+		"HighestInfectionCount" : 2344755,
+		"PercentPopulationInfected" : 1.8185875547076853
+	},
+	{
+		"Location" : "Suriname",
+		"Population" : 586634,
+		"HighestInfectionCount" : 10363,
+		"PercentPopulationInfected" : 1.7665188175250666
+	},
+	{
+		"Location" : "Guyana",
+		"Population" : 786559,
+		"HighestInfectionCount" : 13283,
+		"PercentPopulationInfected" : 1.688748078656528
+	},
+	{
+		"Location" : "Saint Vincent and the Grenadines",
+		"Population" : 110947,
+		"HighestInfectionCount" : 1864,
+		"PercentPopulationInfected" : 1.6800814803464719
+	},
+	{
+		"Location" : "Eswatini",
+		"Population" : 1160164,
+		"HighestInfectionCount" : 18458,
+		"PercentPopulationInfected" : 1.5909819646187953
+	},
+	{
+		"Location" : "Finland",
+		"Population" : 5540718,
+		"HighestInfectionCount" : 86808,
+		"PercentPopulationInfected" : 1.5667283554225284
+	},
+	{
+		"Location" : "Jamaica",
+		"Population" : 2961161,
+		"HighestInfectionCount" : 45578,
+		"PercentPopulationInfected" : 1.5391935798154845
+	},
+	{
+		"Location" : "Kyrgyzstan",
+		"Population" : 6524191,
+		"HighestInfectionCount" : 95275,
+		"PercentPopulationInfected" : 1.460334315779535
+	},
+	{
+		"Location" : "India",
+		"Population" : 1380004385,
+		"HighestInfectionCount" : 19164969,
+		"PercentPopulationInfected" : 1.3887614567253712
+	},
+	{
+		"Location" : "Morocco",
+		"Population" : 36910558,
+		"HighestInfectionCount" : 511249,
+		"PercentPopulationInfected" : 1.3851023330506138
+	},
+	{
+		"Location" : "Barbados",
+		"Population" : 287371,
+		"HighestInfectionCount" : 3855,
+		"PercentPopulationInfected" : 1.3414714776369223
+	},
+	{
+		"Location" : "Guatemala",
+		"Population" : 17915567,
+		"HighestInfectionCount" : 227671,
+		"PercentPopulationInfected" : 1.2707998580229138
+	},
+	{
+		"Location" : "Malaysia",
+		"Population" : 32365998,
+		"HighestInfectionCount" : 408713,
+		"PercentPopulationInfected" : 1.2627850993502503
+	},
+	{
+		"Location" : "Antigua and Barbuda",
+		"Population" : 97928,
+		"HighestInfectionCount" : 1232,
+		"PercentPopulationInfected" : 1.2580671513765216
+	},
+	{
+		"Location" : "Saudi Arabia",
+		"Population" : 34813867,
+		"HighestInfectionCount" : 417363,
+		"PercentPopulationInfected" : 1.1988412548367582
+	},
+	{
+		"Location" : "Mongolia",
+		"Population" : 3278292,
+		"HighestInfectionCount" : 37285,
+		"PercentPopulationInfected" : 1.1373300486960893
+	},
+	{
+		"Location" : "Djibouti",
+		"Population" : 988002,
+		"HighestInfectionCount" : 11100,
+		"PercentPopulationInfected" : 1.1234795071265038
+	},
+	{
+		"Location" : "Nepal",
+		"Population" : 29136808,
+		"HighestInfectionCount" : 323187,
+		"PercentPopulationInfected" : 1.1092052362084412
+	},
+	{
+		"Location" : "El Salvador",
+		"Population" : 6486201,
+		"HighestInfectionCount" : 69198,
+		"PercentPopulationInfected" : 1.0668494547116256
+	},
+	{
+		"Location" : "Sao Tome and Principe",
+		"Population" : 219161,
+		"HighestInfectionCount" : 2302,
+		"PercentPopulationInfected" : 1.0503693631622413
+	},
+	{
+		"Location" : "Singapore",
+		"Population" : 5850343,
+		"HighestInfectionCount" : 61145,
+		"PercentPopulationInfected" : 1.045152395338188
+	},
+	{
+		"Location" : "Gabon",
+		"Population" : 2225728,
+		"HighestInfectionCount" : 23075,
+		"PercentPopulationInfected" : 1.0367394398596774
+	},
+	{
+		"Location" : "Philippines",
+		"Population" : 109581085,
+		"HighestInfectionCount" : 1037460,
+		"PercentPopulationInfected" : 0.946750983529685
+	},
+	{
+		"Location" : "Cuba",
+		"Population" : 11326616,
+		"HighestInfectionCount" : 106707,
+		"PercentPopulationInfected" : 0.9420907356619135
+	},
+	{
+		"Location" : "Trinidad and Tobago",
+		"Population" : 1399491,
+		"HighestInfectionCount" : 10824,
+		"PercentPopulationInfected" : 0.7734240520303453
+	},
+	{
+		"Location" : "Venezuela",
+		"Population" : 28435943,
+		"HighestInfectionCount" : 197683,
+		"PercentPopulationInfected" : 0.6951870736272048
+	},
+	{
+		"Location" : "Indonesia",
+		"Population" : 273523621,
+		"HighestInfectionCount" : 1668368,
+		"PercentPopulationInfected" : 0.6099539022993556
+	},
+	{
+		"Location" : "Equatorial Guinea",
+		"Population" : 1402985,
+		"HighestInfectionCount" : 7694,
+		"PercentPopulationInfected" : 0.5484021568299019
+	},
+	{
+		"Location" : "Sri Lanka",
+		"Population" : 21413250,
+		"HighestInfectionCount" : 108146,
+		"PercentPopulationInfected" : 0.5050424386769874
+	},
+	{
+		"Location" : "Lesotho",
+		"Population" : 2142252,
+		"HighestInfectionCount" : 10731,
+		"PercentPopulationInfected" : 0.5009214602203662
+	},
+	{
+		"Location" : "Zambia",
+		"Population" : 18383956,
+		"HighestInfectionCount" : 91586,
+		"PercentPopulationInfected" : 0.49818439513236434
+	},
+	{
+		"Location" : "Japan",
+		"Population" : 126476458,
+		"HighestInfectionCount" : 593264,
+		"PercentPopulationInfected" : 0.46907069456356854
+	},
+	{
+		"Location" : "Bangladesh",
+		"Population" : 164689383,
+		"HighestInfectionCount" : 759132,
+		"PercentPopulationInfected" : 0.46094774670447336
+	},
+	{
+		"Location" : "Comoros",
+		"Population" : 869595,
+		"HighestInfectionCount" : 3834,
+		"PercentPopulationInfected" : 0.4408948993496972
+	},
+	{
+		"Location" : "Mauritania",
+		"Population" : 4649660,
+		"HighestInfectionCount" : 18402,
+		"PercentPopulationInfected" : 0.3957708735692502
+	},
+	{
+		"Location" : "Pakistan",
+		"Population" : 220892331,
+		"HighestInfectionCount" : 825519,
+		"PercentPopulationInfected" : 0.37372008175331356
+	},
+	{
+		"Location" : "Ghana",
+		"Population" : 31072945,
+		"HighestInfectionCount" : 92562,
+		"PercentPopulationInfected" : 0.2978861514413906
+	},
+	{
+		"Location" : "Kenya",
+		"Population" : 53771300,
+		"HighestInfectionCount" : 159318,
+		"PercentPopulationInfected" : 0.2962881685955147
+	},
+	{
+		"Location" : "Algeria",
+		"Population" : 43851043,
+		"HighestInfectionCount" : 122108,
+		"PercentPopulationInfected" : 0.2784608794823877
+	},
+	{
+		"Location" : "Cameroon",
+		"Population" : 26545864,
+		"HighestInfectionCount" : 72250,
+		"PercentPopulationInfected" : 0.2721704593981194
+	},
+	{
+		"Location" : "Uzbekistan",
+		"Population" : 33469199,
+		"HighestInfectionCount" : 90808,
+		"PercentPopulationInfected" : 0.2713181155007624
+	},
+	{
+		"Location" : "Myanmar",
+		"Population" : 54409794,
+		"HighestInfectionCount" : 142817,
+		"PercentPopulationInfected" : 0.2624839932310716
+	},
+	{
+		"Location" : "Zimbabwe",
+		"Population" : 14862927,
+		"HighestInfectionCount" : 38257,
+		"PercentPopulationInfected" : 0.2573988286425682
+	},
+	{
+		"Location" : "Gambia",
+		"Population" : 2416664,
+		"HighestInfectionCount" : 5898,
+		"PercentPopulationInfected" : 0.2440554417163495
+	},
+	{
+		"Location" : "Dominica",
+		"Population" : 71991,
+		"HighestInfectionCount" : 174,
+		"PercentPopulationInfected" : 0.24169687877651372
+	},
+	{
+		"Location" : "Senegal",
+		"Population" : 16743930,
+		"HighestInfectionCount" : 40344,
+		"PercentPopulationInfected" : 0.24094701781481406
+	},
+	{
+		"Location" : "South Korea",
+		"Population" : 51269183,
+		"HighestInfectionCount" : 122634,
+		"PercentPopulationInfected" : 0.2391963218918468
+	},
+	{
+		"Location" : "Ethiopia",
+		"Population" : 114963583,
+		"HighestInfectionCount" : 257442,
+		"PercentPopulationInfected" : 0.22393352162658328
+	},
+	{
+		"Location" : "Mozambique",
+		"Population" : 31255435,
+		"HighestInfectionCount" : 69917,
+		"PercentPopulationInfected" : 0.22369549487953055
+	},
+	{
+		"Location" : "Egypt",
+		"Population" : 102334403,
+		"HighestInfectionCount" : 227552,
+		"PercentPopulationInfected" : 0.22236119362517803
+	},
+	{
+		"Location" : "Rwanda",
+		"Population" : 12952209,
+		"HighestInfectionCount" : 25116,
+		"PercentPopulationInfected" : 0.19391286845355876
+	},
+	{
+		"Location" : "Congo",
+		"Population" : 5518092,
+		"HighestInfectionCount" : 10678,
+		"PercentPopulationInfected" : 0.19350891576291224
+	},
+	{
+		"Location" : "Guinea-Bissau",
+		"Population" : 1967998,
+		"HighestInfectionCount" : 3734,
+		"PercentPopulationInfected" : 0.1897359651788264
+	},
+	{
+		"Location" : "Malawi",
+		"Population" : 19129955,
+		"HighestInfectionCount" : 34078,
+		"PercentPopulationInfected" : 0.17813946765687635
+	},
+	{
+		"Location" : "Cote d'Ivoire",
+		"Population" : 26378275,
+		"HighestInfectionCount" : 46036,
+		"PercentPopulationInfected" : 0.17452240527479526
+	},
+	{
+		"Location" : "Timor",
+		"Population" : 1318442,
+		"HighestInfectionCount" : 2276,
+		"PercentPopulationInfected" : 0.1726279957707658
+	},
+	{
+		"Location" : "Guinea",
+		"Population" : 13132792,
+		"HighestInfectionCount" : 22215,
+		"PercentPopulationInfected" : 0.16915671854088604
+	},
+	{
+		"Location" : "Togo",
+		"Population" : 8278737,
+		"HighestInfectionCount" : 12967,
+		"PercentPopulationInfected" : 0.1566301719694683
+	},
+	{
+		"Location" : "Afghanistan",
+		"Population" : 38928341,
+		"HighestInfectionCount" : 59745,
+		"PercentPopulationInfected" : 0.15347430295064463
+	},
+	{
+		"Location" : "Grenada",
+		"Population" : 112519,
+		"HighestInfectionCount" : 160,
+		"PercentPopulationInfected" : 0.1421982065251202
+	},
+	{
+		"Location" : "Tajikistan",
+		"Population" : 9537642,
+		"HighestInfectionCount" : 13308,
+		"PercentPopulationInfected" : 0.13953134328170422
+	},
+	{
+		"Location" : "Bhutan",
+		"Population" : 771612,
+		"HighestInfectionCount" : 1074,
+		"PercentPopulationInfected" : 0.13918912614111756
+	},
+	{
+		"Location" : "Madagascar",
+		"Population" : 27691019,
+		"HighestInfectionCount" : 37014,
+		"PercentPopulationInfected" : 0.13366788705031044
+	},
+	{
+		"Location" : "Central African Republic",
+		"Population" : 4829764,
+		"HighestInfectionCount" : 6411,
+		"PercentPopulationInfected" : 0.13273940507238033
+	},
+	{
+		"Location" : "Syria",
+		"Population" : 17500657,
+		"HighestInfectionCount" : 22733,
+		"PercentPopulationInfected" : 0.12989798040153577
+	},
+	{
+		"Location" : "Papua New Guinea",
+		"Population" : 8947027,
+		"HighestInfectionCount" : 10997,
+		"PercentPopulationInfected" : 0.12291233724901021
+	},
+	{
+		"Location" : "Australia",
+		"Population" : 25499881,
+		"HighestInfectionCount" : 29811,
+		"PercentPopulationInfected" : 0.11690642791627144
+	},
+	{
+		"Location" : "Haiti",
+		"Population" : 11402533,
+		"HighestInfectionCount" : 13056,
+		"PercentPopulationInfected" : 0.11450087449867499
+	},
+	{
+		"Location" : "Nicaragua",
+		"Population" : 6624554,
+		"HighestInfectionCount" : 6898,
+		"PercentPopulationInfected" : 0.10412776467668616
+	},
+	{
+		"Location" : "Eritrea",
+		"Population" : 3546427,
+		"HighestInfectionCount" : 3671,
+		"PercentPopulationInfected" : 0.10351263398344304
+	},
+	{
+		"Location" : "Mauritius",
+		"Population" : 1271767,
+		"HighestInfectionCount" : 1209,
+		"PercentPopulationInfected" : 0.09506458337101056
+	},
+	{
+		"Location" : "South Sudan",
+		"Population" : 11193729,
+		"HighestInfectionCount" : 10583,
+		"PercentPopulationInfected" : 0.09454400763141577
+	},
+	{
+		"Location" : "Thailand",
+		"Population" : 69799978,
+		"HighestInfectionCount" : 65153,
+		"PercentPopulationInfected" : 0.09334243629704296
+	},
+	{
+		"Location" : "Uganda",
+		"Population" : 45741000,
+		"HighestInfectionCount" : 41866,
+		"PercentPopulationInfected" : 0.09152838809820511
+	},
+	{
+		"Location" : "Somalia",
+		"Population" : 15893219,
+		"HighestInfectionCount" : 13915,
+		"PercentPopulationInfected" : 0.08755306272442354
+	},
+	{
+		"Location" : "Saint Kitts and Nevis",
+		"Population" : 53192,
+		"HighestInfectionCount" : 44,
+		"PercentPopulationInfected" : 0.0827192058956234
+	},
+	{
+		"Location" : "Angola",
+		"Population" : 32866268,
+		"HighestInfectionCount" : 26652,
+		"PercentPopulationInfected" : 0.08109226152479497
+	},
+	{
+		"Location" : "Cambodia",
+		"Population" : 16718971,
+		"HighestInfectionCount" : 13402,
+		"PercentPopulationInfected" : 0.08016043571102552
+	},
+	{
+		"Location" : "Nigeria",
+		"Population" : 206139587,
+		"HighestInfectionCount" : 165110,
+		"PercentPopulationInfected" : 0.08009621169950243
+	},
+	{
+		"Location" : "Sudan",
+		"Population" : 43849269,
+		"HighestInfectionCount" : 33944,
+		"PercentPopulationInfected" : 0.07741064052857985
+	},
+	{
+		"Location" : "Mali",
+		"Population" : 20250834,
+		"HighestInfectionCount" : 13858,
+		"PercentPopulationInfected" : 0.06843174952695776
+	},
+	{
+		"Location" : "Benin",
+		"Population" : 12123198,
+		"HighestInfectionCount" : 7821,
+		"PercentPopulationInfected" : 0.06451268056497964
+	},
+	{
+		"Location" : "Burkina Faso",
+		"Population" : 20903278,
+		"HighestInfectionCount" : 13310,
+		"PercentPopulationInfected" : 0.06367422372701545
+	},
+	{
+		"Location" : "New Zealand",
+		"Population" : 4822233,
+		"HighestInfectionCount" : 2613,
+		"PercentPopulationInfected" : 0.05418651483659127
+	},
+	{
+		"Location" : "Brunei",
+		"Population" : 437483,
+		"HighestInfectionCount" : 224,
+		"PercentPopulationInfected" : 0.05120198956302302
+	},
+	{
+		"Location" : "Sierra Leone",
+		"Population" : 7976985,
+		"HighestInfectionCount" : 4054,
+		"PercentPopulationInfected" : 0.05082120625775278
+	},
+	{
+		"Location" : "Liberia",
+		"Population" : 5057677,
+		"HighestInfectionCount" : 2099,
+		"PercentPopulationInfected" : 0.04150126629280596
+	},
+	{
+		"Location" : "Burundi",
+		"Population" : 11890781,
+		"HighestInfectionCount" : 3995,
+		"PercentPopulationInfected" : 0.033597456718780706
+	},
+	{
+		"Location" : "Democratic Republic of Congo",
+		"Population" : 89561404,
+		"HighestInfectionCount" : 29853,
+		"PercentPopulationInfected" : 0.03333243860268202
+	},
+	{
+		"Location" : "Chad",
+		"Population" : 16425859,
+		"HighestInfectionCount" : 4817,
+		"PercentPopulationInfected" : 0.029325711367667283
+	},
+	{
+		"Location" : "Niger",
+		"Population" : 24206636,
+		"HighestInfectionCount" : 5228,
+		"PercentPopulationInfected" : 0.02159738346129549
+	},
+	{
+		"Location" : "Yemen",
+		"Population" : 29825968,
+		"HighestInfectionCount" : 6317,
+		"PercentPopulationInfected" : 0.021179530535270472
+	},
+	{
+		"Location" : "Fiji",
+		"Population" : 896444,
+		"HighestInfectionCount" : 117,
+		"PercentPopulationInfected" : 0.013051568196117105
+	},
+	{
+		"Location" : "Laos",
+		"Population" : 7275556,
+		"HighestInfectionCount" : 757,
+		"PercentPopulationInfected" : 0.01040470309073286
+	},
+	{
+		"Location" : "China",
+		"Population" : 1439323774,
+		"HighestInfectionCount" : 102494,
+		"PercentPopulationInfected" : 0.007120982912354784
+	},
+	{
+		"Location" : "Marshall Islands",
+		"Population" : 59194,
+		"HighestInfectionCount" : 4,
+		"PercentPopulationInfected" : 0.006757441632597898
+	},
+	{
+		"Location" : "Taiwan",
+		"Population" : 23816775,
+		"HighestInfectionCount" : 1128,
+		"PercentPopulationInfected" : 0.004736157603201945
+	},
+	{
+		"Location" : "Vietnam",
+		"Population" : 97338583,
+		"HighestInfectionCount" : 2928,
+		"PercentPopulationInfected" : 0.0030080569387372323
+	},
+	{
+		"Location" : "Solomon Islands",
+		"Population" : 686878,
+		"HighestInfectionCount" : 20,
+		"PercentPopulationInfected" : 0.002911725226313843
+	},
+	{
+		"Location" : "Samoa",
+		"Population" : 198410,
+		"HighestInfectionCount" : 3,
+		"PercentPopulationInfected" : 0.0015120205634796633
+	},
+	{
+		"Location" : "Vanuatu",
+		"Population" : 307150,
+		"HighestInfectionCount" : 4,
+		"PercentPopulationInfected" : 0.001302295295458245
+	},
+	{
+		"Location" : "Micronesia (country)",
+		"Population" : 115021,
+		"HighestInfectionCount" : 1,
+		"PercentPopulationInfected" : 0.0008694064562123438
+	},
+	{
+		"Location" : "Tanzania",
+		"Population" : 59734213,
+		"HighestInfectionCount" : 509,
+		"PercentPopulationInfected" : 0.000852107987092757
+	},
+	{
+		"Location" : "Anguilla",
+		"Population" : 15002,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Aruba",
+		"Population" : 106766,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Bermuda",
+		"Population" : 62273,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Cayman Islands",
+		"Population" : 65720,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Curacao",
+		"Population" : 164100,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Faeroe Islands",
+		"Population" : 48865,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Falkland Islands",
+		"Population" : 3483,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Gibraltar",
+		"Population" : 33691,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Greenland",
+		"Population" : 56772,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Guernsey",
+		"Population" : 67052,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Hong Kong",
+		"Population" : 7496988,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Isle of Man",
+		"Population" : 85032,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Jersey",
+		"Population" : 101073,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Macao",
+		"Population" : 649342,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Montserrat",
+		"Population" : 4999,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Nauru",
+		"Population" : 10834,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Saint Helena",
+		"Population" : 6071,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Tonga",
+		"Population" : 105697,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Turks and Caicos Islands",
+		"Population" : 38718,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	},
+	{
+		"Location" : "Northern Cyprus",
+		"Population" : 0,
+		"HighestInfectionCount" : 0,
+		"PercentPopulationInfected" : 0
+	}
+]

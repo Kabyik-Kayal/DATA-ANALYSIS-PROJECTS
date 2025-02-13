@@ -1,0 +1,5245 @@
+[
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-30",
+		"HighestInfectionCount" : 13232,
+		"PercentPopulationInfected" : 17.125477253607713
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-29",
+		"HighestInfectionCount" : 13198,
+		"PercentPopulationInfected" : 17.08147285316767
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-28",
+		"HighestInfectionCount" : 13148,
+		"PercentPopulationInfected" : 17.01676049957937
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-27",
+		"HighestInfectionCount" : 13121,
+		"PercentPopulationInfected" : 16.98181582864169
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-26",
+		"HighestInfectionCount" : 13083,
+		"PercentPopulationInfected" : 16.93263443991458
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-25",
+		"HighestInfectionCount" : 13060,
+		"PercentPopulationInfected" : 16.90286675726396
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-24",
+		"HighestInfectionCount" : 13024,
+		"PercentPopulationInfected" : 16.856273862680386
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-23",
+		"HighestInfectionCount" : 13007,
+		"PercentPopulationInfected" : 16.834271662460367
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-22",
+		"HighestInfectionCount" : 12942,
+		"PercentPopulationInfected" : 16.750145602795573
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-21",
+		"HighestInfectionCount" : 12917,
+		"PercentPopulationInfected" : 16.717789426001424
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-20",
+		"HighestInfectionCount" : 12874,
+		"PercentPopulationInfected" : 16.662136801915487
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-19",
+		"HighestInfectionCount" : 12805,
+		"PercentPopulationInfected" : 16.572833753963632
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-18",
+		"HighestInfectionCount" : 12805,
+		"PercentPopulationInfected" : 16.572833753963632
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-17",
+		"HighestInfectionCount" : 12771,
+		"PercentPopulationInfected" : 16.528829353523587
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-16",
+		"HighestInfectionCount" : 12712,
+		"PercentPopulationInfected" : 16.452468776289393
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-15",
+		"HighestInfectionCount" : 12641,
+		"PercentPopulationInfected" : 16.360577234194007
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-14",
+		"HighestInfectionCount" : 12641,
+		"PercentPopulationInfected" : 16.360577234194007
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-13",
+		"HighestInfectionCount" : 12614,
+		"PercentPopulationInfected" : 16.325632563256328
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-12",
+		"HighestInfectionCount" : 12581,
+		"PercentPopulationInfected" : 16.282922409888048
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-11",
+		"HighestInfectionCount" : 12545,
+		"PercentPopulationInfected" : 16.23632951530447
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-10",
+		"HighestInfectionCount" : 12497,
+		"PercentPopulationInfected" : 16.1742056558597
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-09",
+		"HighestInfectionCount" : 12456,
+		"PercentPopulationInfected" : 16.1211415259173
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-08",
+		"HighestInfectionCount" : 12409,
+		"PercentPopulationInfected" : 16.060311913544297
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-07",
+		"HighestInfectionCount" : 12363,
+		"PercentPopulationInfected" : 16.00077654824306
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-06",
+		"HighestInfectionCount" : 12328,
+		"PercentPopulationInfected" : 15.95547790073125
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-05",
+		"HighestInfectionCount" : 12286,
+		"PercentPopulationInfected" : 15.901119523717078
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-04",
+		"HighestInfectionCount" : 12231,
+		"PercentPopulationInfected" : 15.829935934769948
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-03",
+		"HighestInfectionCount" : 12174,
+		"PercentPopulationInfected" : 15.756163851679286
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-02",
+		"HighestInfectionCount" : 12115,
+		"PercentPopulationInfected" : 15.679803274445092
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-04-01",
+		"HighestInfectionCount" : 12053,
+		"PercentPopulationInfected" : 15.599559955995598
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-31",
+		"HighestInfectionCount" : 12010,
+		"PercentPopulationInfected" : 15.543907331909661
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-30",
+		"HighestInfectionCount" : 97389,
+		"PercentPopulationInfected" : 15.506271673815641
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-29",
+		"HighestInfectionCount" : 97257,
+		"PercentPopulationInfected" : 15.485254640465431
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-30",
+		"HighestInfectionCount" : 11944,
+		"PercentPopulationInfected" : 15.458487025173106
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-28",
+		"HighestInfectionCount" : 97080,
+		"PercentPopulationInfected" : 15.457072709382194
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-27",
+		"HighestInfectionCount" : 96930,
+		"PercentPopulationInfected" : 15.433189716938772
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-26",
+		"HighestInfectionCount" : 96779,
+		"PercentPopulationInfected" : 15.409147504545729
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-25",
+		"HighestInfectionCount" : 96660,
+		"PercentPopulationInfected" : 15.390200330540615
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-29",
+		"HighestInfectionCount" : 11888,
+		"PercentPopulationInfected" : 15.38600918915421
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-24",
+		"HighestInfectionCount" : 96499,
+		"PercentPopulationInfected" : 15.364565918651344
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-23",
+		"HighestInfectionCount" : 96348,
+		"PercentPopulationInfected" : 15.340523706258299
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-28",
+		"HighestInfectionCount" : 11850,
+		"PercentPopulationInfected" : 15.336827800427102
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-22",
+		"HighestInfectionCount" : 96187,
+		"PercentPopulationInfected" : 15.314889294369028
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-21",
+		"HighestInfectionCount" : 96048,
+		"PercentPopulationInfected" : 15.292757721371459
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-27",
+		"HighestInfectionCount" : 11809,
+		"PercentPopulationInfected" : 15.283763670484696
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-20",
+		"HighestInfectionCount" : 95894,
+		"PercentPopulationInfected" : 15.268237849129546
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-19",
+		"HighestInfectionCount" : 95695,
+		"PercentPopulationInfected" : 15.236553079154605
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-30",
+		"HighestInfectionCount" : 1630758,
+		"PercentPopulationInfected" : 15.22794603632726
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-18",
+		"HighestInfectionCount" : 95551,
+		"PercentPopulationInfected" : 15.213625406408921
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-29",
+		"HighestInfectionCount" : 1628536,
+		"PercentPopulationInfected" : 15.207197098659798
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-17",
+		"HighestInfectionCount" : 95377,
+		"PercentPopulationInfected" : 15.185921135174551
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-26",
+		"HighestInfectionCount" : 11732,
+		"PercentPopulationInfected" : 15.184106645958714
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-28",
+		"HighestInfectionCount" : 1626033,
+		"PercentPopulationInfected" : 15.183824195427725
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-16",
+		"HighestInfectionCount" : 95205,
+		"PercentPopulationInfected" : 15.158535303839429
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-27",
+		"HighestInfectionCount" : 1622777,
+		"PercentPopulationInfected" : 15.153419811518967
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-15",
+		"HighestInfectionCount" : 95042,
+		"PercentPopulationInfected" : 15.132582452050913
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-26",
+		"HighestInfectionCount" : 1620206,
+		"PercentPopulationInfected" : 15.129411927296172
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-25",
+		"HighestInfectionCount" : 11687,
+		"PercentPopulationInfected" : 15.125865527729243
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-25",
+		"HighestInfectionCount" : 1619383,
+		"PercentPopulationInfected" : 15.121726789717268
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-24",
+		"HighestInfectionCount" : 1618068,
+		"PercentPopulationInfected" : 15.109447377911364
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-14",
+		"HighestInfectionCount" : 94859,
+		"PercentPopulationInfected" : 15.103445201269938
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-23",
+		"HighestInfectionCount" : 1615461,
+		"PercentPopulationInfected" : 15.085103327281715
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-13",
+		"HighestInfectionCount" : 94643,
+		"PercentPopulationInfected" : 15.069053692151414
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-24",
+		"HighestInfectionCount" : 11638,
+		"PercentPopulationInfected" : 15.06244742121271
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-22",
+		"HighestInfectionCount" : 1612832,
+		"PercentPopulationInfected" : 15.060553841625657
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-12",
+		"HighestInfectionCount" : 94419,
+		"PercentPopulationInfected" : 15.033388423435904
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-21",
+		"HighestInfectionCount" : 1609861,
+		"PercentPopulationInfected" : 15.032810775104489
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-11",
+		"HighestInfectionCount" : 94269,
+		"PercentPopulationInfected" : 15.009505430992482
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-23",
+		"HighestInfectionCount" : 11591,
+		"PercentPopulationInfected" : 15.001617808839708
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-20",
+		"HighestInfectionCount" : 1606030,
+		"PercentPopulationInfected" : 14.997037066641816
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-10",
+		"HighestInfectionCount" : 94035,
+		"PercentPopulationInfected" : 14.972247962780743
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-19",
+		"HighestInfectionCount" : 1602711,
+		"PercentPopulationInfected" : 14.966044391521061
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-18",
+		"HighestInfectionCount" : 1601881,
+		"PercentPopulationInfected" : 14.958293888251935
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-17",
+		"HighestInfectionCount" : 1600341,
+		"PercentPopulationInfected" : 14.9439134364032
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-22",
+		"HighestInfectionCount" : 11545,
+		"PercentPopulationInfected" : 14.942082443538471
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-09",
+		"HighestInfectionCount" : 93803,
+		"PercentPopulationInfected" : 14.935308934468253
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-30",
+		"HighestInfectionCount" : 5066,
+		"PercentPopulationInfected" : 14.92722022511639
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-16",
+		"HighestInfectionCount" : 1597103,
+		"PercentPopulationInfected" : 14.913677135697863
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-29",
+		"HighestInfectionCount" : 5060,
+		"PercentPopulationInfected" : 14.909540927573811
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-28",
+		"HighestInfectionCount" : 5059,
+		"PercentPopulationInfected" : 14.906594377983382
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-21",
+		"HighestInfectionCount" : 11517,
+		"PercentPopulationInfected" : 14.905843525529022
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-27",
+		"HighestInfectionCount" : 5058,
+		"PercentPopulationInfected" : 14.903647828392952
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-08",
+		"HighestInfectionCount" : 93566,
+		"PercentPopulationInfected" : 14.897573806407646
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-26", 
+		"HighestInfectionCount" : 5055,
+		"PercentPopulationInfected" : 14.894808179621663
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-15",
+		"HighestInfectionCount" : 1593847,
+		"PercentPopulationInfected" : 14.883272751789105
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-23",
+		"HighestInfectionCount" : 5047,
+		"PercentPopulationInfected" : 14.871235782898227
+	},
+	{
+		"Location" : "San Marino", 
+		"Population" : 33938,
+		"date" : "2021-04-24",
+		"HighestInfectionCount" : 5047,
+		"PercentPopulationInfected" : 14.871235782898227
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-25",
+		"HighestInfectionCount" : 5047,
+		"PercentPopulationInfected" : 14.871235782898227
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-22",
+		"HighestInfectionCount" : 5045,
+		"PercentPopulationInfected" : 14.865342683717367
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-21",
+		"HighestInfectionCount" : 5044,
+		"PercentPopulationInfected" : 14.862396134126937
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-20",
+		"HighestInfectionCount" : 11481,
+		"PercentPopulationInfected" : 14.859250630945448
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-07",
+		"HighestInfectionCount" : 93309,
+		"PercentPopulationInfected" : 14.856654279354586
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-20",
+		"HighestInfectionCount" : 5040,
+		"PercentPopulationInfected" : 14.850609935765219
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-14",
+		"HighestInfectionCount" : 1590124,
+		"PercentPopulationInfected" : 14.848507542546995
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-19",
+		"HighestInfectionCount" : 5030,
+		"PercentPopulationInfected" : 14.821144439860923
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-06",
+		"HighestInfectionCount" : 93030,
+		"PercentPopulationInfected" : 14.812231913409823
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-17",
+		"HighestInfectionCount" : 5026,
+		"PercentPopulationInfected" : 14.809358241499204
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-18",
+		"HighestInfectionCount" : 5026,
+		"PercentPopulationInfected" : 14.809358241499204
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-13",
+		"HighestInfectionCount" : 1585037,
+		"PercentPopulationInfected" : 14.80100536166743
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-19",
+		"HighestInfectionCount" : 11431,
+		"PercentPopulationInfected" : 14.794538277357146
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-16",
+		"HighestInfectionCount" : 5016,
+		"PercentPopulationInfected" : 14.779892745594909
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-05",
+		"HighestInfectionCount" : 92740,
+		"PercentPopulationInfected" : 14.766058128019207
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-12",
+		"HighestInfectionCount" : 1581184,
+		"PercentPopulationInfected" : 14.765026218178349
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-15",
+		"HighestInfectionCount" : 5010,
+		"PercentPopulationInfected" : 14.76221344805233
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-11",
+		"HighestInfectionCount" : 1580189,
+		"PercentPopulationInfected" : 14.755734952211144
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-18",
+		"HighestInfectionCount" : 11393,
+		"PercentPopulationInfected" : 14.74535688863004
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-14",
+		"HighestInfectionCount" : 5004,
+		"PercentPopulationInfected" : 14.744534150509752
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-10",
+		"HighestInfectionCount" : 1577972,
+		"PercentPopulationInfected" : 14.735032704322409
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-04",
+		"HighestInfectionCount" : 92519,
+		"PercentPopulationInfected" : 14.730870519152568
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-17",
+		"HighestInfectionCount" : 11360,
+		"PercentPopulationInfected" : 14.702646735261762
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-09",
+		"HighestInfectionCount" : 1573153,
+		"PercentPopulationInfected" : 14.690033095582756
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-13",
+		"HighestInfectionCount" : 4985,
+		"PercentPopulationInfected" : 14.68854970829159
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-03",
+		"HighestInfectionCount" : 92222,
+		"PercentPopulationInfected" : 14.683582194114594
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-16",
+		"HighestInfectionCount" : 11319,
+		"PercentPopulationInfected" : 14.649582605319356
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-08",
+		"HighestInfectionCount" : 1567848,
+		"PercentPopulationInfected" : 14.640495240350576
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-02",
+		"HighestInfectionCount" : 91906,
+		"PercentPopulationInfected" : 14.633268690033788
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-12",
+		"HighestInfectionCount" : 4962,
+		"PercentPopulationInfected" : 14.620779067711709
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-15",
+		"HighestInfectionCount" : 11289,
+		"PercentPopulationInfected" : 14.610755193166375
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-10",
+		"HighestInfectionCount" : 4956,
+		"PercentPopulationInfected" : 14.60309977016913
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-11",
+		"HighestInfectionCount" : 4956,
+		"PercentPopulationInfected" : 14.60309977016913
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-14",
+		"HighestInfectionCount" : 11266,
+		"PercentPopulationInfected" : 14.580987510515758
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-04-01",
+		"HighestInfectionCount" : 91573,
+		"PercentPopulationInfected" : 14.58024844680939
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-07",
+		"HighestInfectionCount" : 1560777,
+		"PercentPopulationInfected" : 14.574466555271078
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-09",
+		"HighestInfectionCount" : 4944,
+		"PercentPopulationInfected" : 14.567741175083976
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-08",
+		"HighestInfectionCount" : 4932,
+		"PercentPopulationInfected" : 14.53238257999882
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-13",
+		"HighestInfectionCount" : 11228,
+		"PercentPopulationInfected" : 14.531806121788648
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-31",
+		"HighestInfectionCount" : 91218,
+		"PercentPopulationInfected" : 14.523725364693293
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-06",
+		"HighestInfectionCount" : 1555245,
+		"PercentPopulationInfected" : 14.522808984084575
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-05",
+		"HighestInfectionCount" : 1553820,
+		"PercentPopulationInfected" : 14.50950239714662
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-12",
+		"HighestInfectionCount" : 11199,
+		"PercentPopulationInfected" : 14.494272956707436
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-04",
+		"HighestInfectionCount" : 1551896,
+		"PercentPopulationInfected" : 14.491536170291445
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-03",
+		"HighestInfectionCount" : 1549734,
+		"PercentPopulationInfected" : 14.471347509968735
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-30",
+		"HighestInfectionCount" : 90832,
+		"PercentPopulationInfected" : 14.46226646413889
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-07",
+		"HighestInfectionCount" : 4904,
+		"PercentPopulationInfected" : 14.449879191466792
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-02",
+		"HighestInfectionCount" : 1545865,
+		"PercentPopulationInfected" : 14.435218959187718
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-11",
+		"HighestInfectionCount" : 11130,
+		"PercentPopulationInfected" : 14.404969908755582
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-10",
+		"HighestInfectionCount" : 11130,
+		"PercentPopulationInfected" : 14.404969908755582
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-29",
+		"HighestInfectionCount" : 90418,
+		"PercentPopulationInfected" : 14.396349404995048
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-04-01",
+		"HighestInfectionCount" : 1539617,
+		"PercentPopulationInfected" : 14.376875411687124
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-09",
+		"HighestInfectionCount" : 11089,
+		"PercentPopulationInfected" : 14.351905778813176
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-28",
+		"HighestInfectionCount" : 90083,
+		"PercentPopulationInfected" : 14.343010721871408
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-06",
+		"HighestInfectionCount" : 4864,
+		"PercentPopulationInfected" : 14.33201720784961
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-08",
+		"HighestInfectionCount" : 11069,
+		"PercentPopulationInfected" : 14.326020837377856
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-03-31",
+		"HighestInfectionCount" : 1532332,
+		"PercentPopulationInfected" : 14.308848404077997
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-07",
+		"HighestInfectionCount" : 11042,
+		"PercentPopulationInfected" : 14.291076166440172
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-27",
+		"HighestInfectionCount" : 89732,
+		"PercentPopulationInfected" : 14.287124519553801
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-06",
+		"HighestInfectionCount" : 11019,
+		"PercentPopulationInfected" : 14.261308483789556
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-05",
+		"HighestInfectionCount" : 10998,
+		"PercentPopulationInfected" : 14.234129295282468
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-26",
+		"HighestInfectionCount" : 89363,
+		"PercentPopulationInfected" : 14.228372358142986
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-03-30",
+		"HighestInfectionCount" : 1523668,
+		"PercentPopulationInfected" : 14.227944355495229
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-04",
+		"HighestInfectionCount" : 10976,
+		"PercentPopulationInfected" : 14.205655859703617
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-03",
+		"HighestInfectionCount" : 10948,
+		"PercentPopulationInfected" : 14.169416941694168
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-25",
+		"HighestInfectionCount" : 88991,
+		"PercentPopulationInfected" : 14.1691425368833
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-03-29",
+		"HighestInfectionCount" : 1516772,
+		"PercentPopulationInfected" : 14.163549812671269
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-03-28",
+		"HighestInfectionCount" : 1515029,
+		"PercentPopulationInfected" : 14.147273755806108
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-02",
+		"HighestInfectionCount" : 10908,
+		"PercentPopulationInfected" : 14.117647058823529
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-03-27",
+		"HighestInfectionCount" : 1511021,
+		"PercentPopulationInfected" : 14.109847229176406
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-24",
+		"HighestInfectionCount" : 88550,
+		"PercentPopulationInfected" : 14.098926539099644
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-03-01",
+		"HighestInfectionCount" : 10889,
+		"PercentPopulationInfected" : 14.093056364459974
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-02",
+		"HighestInfectionCount" : 4775,
+		"PercentPopulationInfected" : 14.069774294301373
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-03",
+		"HighestInfectionCount" : 4775,
+		"PercentPopulationInfected" : 14.069774294301373
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-04",
+		"HighestInfectionCount" : 4775,
+		"PercentPopulationInfected" : 14.069774294301373
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-04-05",
+		"HighestInfectionCount" : 4775,
+		"PercentPopulationInfected" : 14.069774294301373
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-02-28",
+		"HighestInfectionCount" : 10866,
+		"PercentPopulationInfected" : 14.063288681809357
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-02-27",
+		"HighestInfectionCount" : 10849,
+		"PercentPopulationInfected" : 14.041286481589335
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-03-26",
+		"HighestInfectionCount" : 1503307,
+		"PercentPopulationInfected" : 14.037814238552274
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-23",
+		"HighestInfectionCount" : 88116,
+		"PercentPopulationInfected" : 14.029825080963345
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-02-26",
+		"HighestInfectionCount" : 10822,
+		"PercentPopulationInfected" : 14.006341810651653
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-02-25",
+		"HighestInfectionCount" : 10799,
+		"PercentPopulationInfected" : 13.976574128001035
+	},
+	{
+		"Location" : "Czechia",
+		"Population" : 10708982,
+		"date" : "2021-03-25",
+		"HighestInfectionCount" : 1495361,
+		"PercentPopulationInfected" : 13.963614842195085
+	},
+	{
+		"Location" : "Montenegro",
+		"Population" : 628062,
+		"date" : "2021-03-22",
+		"HighestInfectionCount" : 87638,
+		"PercentPopulationInfected" : 13.953717945043643
+	},
+	{
+		"Location" : "Andorra",
+		"Population" : 77265,
+		"date" : "2021-02-24",
+		"HighestInfectionCount" : 10775,
+		"PercentPopulationInfected" : 13.945512198278651
+	},
+	{
+		"Location" : "San Marino",
+		"Population" : 33938,
+		"date" : "2021-03-31",
+		"HighestInfectionCount" : 4730,
+		"PercentPopulationInfected" : 13.937179562732041
+	},
+	{
+		"Location": "San Marino",
+		"Population": 33938,
+		"date": "2021-04-01",
+		"HighestInfectionCount": 4730,
+		"PercentPopulationInfected": 13.937179562732041
+	},
+	{
+		"Location": "Andorra", 
+		"Population": 77265,
+		"date": "2021-02-23",
+		"HighestInfectionCount": 10739,
+		"PercentPopulationInfected": 13.898919303695076
+	},
+	{
+		"Location": "Montenegro",
+		"Population": 628062,
+		"date": "2021-03-21",
+		"HighestInfectionCount": 87212,
+		"PercentPopulationInfected": 13.885890246504326
+	},
+	{
+		"Location": "Czechia",
+		"Population": 10708982,
+		"date": "2021-03-24",
+		"HighestInfectionCount": 1486510,
+		"PercentPopulationInfected": 13.880964595887827
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-22",
+		"HighestInfectionCount": 10712,
+		"PercentPopulationInfected": 13.863974632757392
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-21", 
+		"HighestInfectionCount": 10699,
+		"PercentPopulationInfected": 13.847149420824437
+	},
+	{
+		"Location": "Montenegro",
+		"Population": 628062,
+		"date": "2021-03-20",
+		"HighestInfectionCount": 86782,
+		"PercentPopulationInfected": 13.81742566816652
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-20",
+		"HighestInfectionCount": 10672,
+		"PercentPopulationInfected": 13.812204749886753
+	},
+	{
+		"Location": "San Marino",
+		"Population": 33938,
+		"date": "2021-03-30",
+		"HighestInfectionCount": 4678,
+		"PercentPopulationInfected": 13.7839589840297
+	},
+	{
+		"Location": "Czechia",
+		"Population": 10708982,
+		"date": "2021-03-23", 
+		"HighestInfectionCount": 1475538,
+		"PercentPopulationInfected": 13.77850854544344
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-19",
+		"HighestInfectionCount": 10645,
+		"PercentPopulationInfected": 13.777260078949071
+	},
+	{
+		"Location": "Montenegro",
+		"Population": 628062,
+		"date": "2021-03-19",
+		"HighestInfectionCount": 86282,
+		"PercentPopulationInfected": 13.737815693355115
+	},
+	{
+		"Location": "Andorra", 
+		"Population": 77265,
+		"date": "2021-02-18",
+		"HighestInfectionCount": 10610,
+		"PercentPopulationInfected": 13.731961431437261
+	},
+	{
+		"Location": "Czechia",
+		"Population": 10708982,
+		"date": "2021-03-21", 
+		"HighestInfectionCount": 1469547,
+		"PercentPopulationInfected": 13.722564852569551
+	},
+	{
+		"Location": "Czechia",
+		"Population": 10708982,
+		"date": "2021-03-22",
+		"HighestInfectionCount": 1467333,
+		"PercentPopulationInfected": 13.701890618548058
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-17",
+		"HighestInfectionCount": 10583,
+		"PercentPopulationInfected": 13.697016760499581
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-16",
+		"HighestInfectionCount": 10555,
+		"PercentPopulationInfected": 13.660777842490132
+	},
+	{
+		"Location": "Montenegro",
+		"Population": 628062,
+		"date": "2021-03-18",
+		"HighestInfectionCount": 85774,
+		"PercentPopulationInfected": 13.656931958946728
+	},
+	{
+		"Location": "San Marino",
+		"Population": 33938,
+		"date": "2021-03-29",
+		"HighestInfectionCount": 4631,
+		"PercentPopulationInfected": 13.645471153279509
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-15",
+		"HighestInfectionCount": 10538,
+		"PercentPopulationInfected": 13.63877564227011
+	},
+	{
+		"Location": "Czechia", 
+		"Population": 10708982,
+		"date": "2021-03-20",
+		"HighestInfectionCount": 1459406,
+		"PercentPopulationInfected": 13.627868643350041
+	},
+	{
+		"Location": "Andorra",
+		"Population": 77265,
+		"date": "2021-02-14", 
+		"HighestInfectionCount": 10503,
+		"PercentPopulationInfected": 13.5934769947583
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-11,
+		"HighestInfectionCount" : 1064952,
+		"PercentPopulationInfected" : 9.94447464754353
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 675904,
+		"PercentPopulationInfected" : 9.933051131911432
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-23,
+		"HighestInfectionCount" : 7669,
+		"PercentPopulationInfected" : 9.925580793373454
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-22,
+		"HighestInfectionCount" : 206317,
+		"PercentPopulationInfected" : 9.924182224334418
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-04-05,
+		"HighestInfectionCount" : 62105,
+		"PercentPopulationInfected" : 9.921306887165002
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-04-04,
+		"HighestInfectionCount" : 62105,
+		"PercentPopulationInfected" : 9.921306887165002
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-04-03,
+		"HighestInfectionCount" : 62105,
+		"PercentPopulationInfected" : 9.921306887165002
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-04-02,
+		"HighestInfectionCount" : 62105,
+		"PercentPopulationInfected" : 9.921306887165002
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-21,
+		"HighestInfectionCount" : 206026,
+		"PercentPopulationInfected" : 9.910184652504267
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 673520,
+		"PercentPopulationInfected" : 9.89801598801751
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-04-01,
+		"HighestInfectionCount" : 61881,
+		"PercentPopulationInfected" : 9.885522767646043
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-20,
+		"HighestInfectionCount" : 205509,
+		"PercentPopulationInfected" : 9.885316114235579
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 168201,
+		"PercentPopulationInfected" : 9.884971817419427
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-22,
+		"HighestInfectionCount" : 7633,
+		"PercentPopulationInfected" : 9.878987898789878
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-16,
+		"HighestInfectionCount" : 3352,
+		"PercentPopulationInfected" : 9.876834227120042
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-02-01,
+		"HighestInfectionCount" : 61972,
+		"PercentPopulationInfected" : 9.867178718024654
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 670801,
+		"PercentPopulationInfected" : 9.858057701000913
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-10,
+		"HighestInfectionCount" : 1055415,
+		"PercentPopulationInfected" : 9.85541856359456
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-31,
+		"HighestInfectionCount" : 61642,
+		"PercentPopulationInfected" : 9.847342390123583
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-21,
+		"HighestInfectionCount" : 7602,
+		"PercentPopulationInfected" : 9.838866239565133
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-19,
+		"HighestInfectionCount" : 204482,
+		"PercentPopulationInfected" : 9.835915749048068
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 167165,
+		"PercentPopulationInfected" : 9.824087335146155
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-31,
+		"HighestInfectionCount" : 61659,
+		"PercentPopulationInfected" : 9.817342873792715
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 667937,
+		"PercentPopulationInfected" : 9.815968501289422
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-20,
+		"HighestInfectionCount" : 7577,
+		"PercentPopulationInfected" : 9.806510062770982
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-18,
+		"HighestInfectionCount" : 203544,
+		"PercentPopulationInfected" : 9.790796428166
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-30,
+		"HighestInfectionCount" : 61255,
+		"PercentPopulationInfected" : 9.785518933633238
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-19,
+		"HighestInfectionCount" : 7560,
+		"PercentPopulationInfected" : 9.78450786255096
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-15,
+		"HighestInfectionCount" : 3317,
+		"PercentPopulationInfected" : 9.773704991455007
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 32346971,
+		"PercentPopulationInfected" : 9.772420641699581
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 664972,
+		"PercentPopulationInfected" : 9.772395010666319
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 166157,
+		"PercentPopulationInfected" : 9.76484837942081
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-09,
+		"HighestInfectionCount" : 1045132,
+		"PercentPopulationInfected" : 9.759396364659125
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-29,
+		"HighestInfectionCount" : 61073,
+		"PercentPopulationInfected" : 9.756444336524083
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 32289049,
+		"PercentPopulationInfected" : 9.754921687982755
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-30,
+		"HighestInfectionCount" : 61202,
+		"PercentPopulationInfected" : 9.744579356815091
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-17,
+		"HighestInfectionCount" : 202573,
+		"PercentPopulationInfected" : 9.74408975377742
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 32230850,
+		"PercentPopulationInfected" : 9.737339049134553
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 662368,
+		"PercentPopulationInfected" : 9.734126757856014
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-18,
+		"HighestInfectionCount" : 7519,
+		"PercentPopulationInfected" : 9.731443732608556
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 32175725,
+		"PercentPopulationInfected" : 9.720685103765952
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 32124869,
+		"PercentPopulationInfected" : 9.705320876180183
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 165118,
+		"PercentPopulationInfected" : 9.70378759073169
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 660299,
+		"PercentPopulationInfected" : 9.703720838092373
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-16,
+		"HighestInfectionCount" : 201497,
+		"PercentPopulationInfected" : 9.692332409140846
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 32077178,
+		"PercentPopulationInfected" : 9.690912834301292
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-08,
+		"HighestInfectionCount" : 1037405,
+		"PercentPopulationInfected" : 9.687241980610295
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 838481,
+		"PercentPopulationInfected" : 9.687216547180586
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 838407,
+		"PercentPopulationInfected" : 9.686361603509242
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 838323,
+		"PercentPopulationInfected" : 9.685391126909341
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-29,
+		"HighestInfectionCount" : 60827,
+		"PercentPopulationInfected" : 9.684871875706538
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 838217,
+		"PercentPopulationInfected" : 9.684166477866606
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 838107,
+		"PercentPopulationInfected" : 9.682895615652447
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 838024,
+		"PercentPopulationInfected" : 9.6819366923454
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 837974,
+		"PercentPopulationInfected" : 9.681359027702602
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 32045113,
+		"PercentPopulationInfected" : 9.681225600591647
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 837892,
+		"PercentPopulationInfected" : 9.68041165768841
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 837807,
+		"PercentPopulationInfected" : 9.67942962779565
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 837492,
+		"PercentPopulationInfected" : 9.675790340546015
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 837357,
+		"PercentPopulationInfected" : 9.674230646010457
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 837218,
+		"PercentPopulationInfected" : 9.672624738303476
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 837047,
+		"PercentPopulationInfected" : 9.670649125225102
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 836936,
+		"PercentPopulationInfected" : 9.669366709718087
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 836902,
+		"PercentPopulationInfected" : 9.668973897760983
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 836883,
+		"PercentPopulationInfected" : 9.668754385196719
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 657716,
+		"PercentPopulationInfected" : 9.665761200224084
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 836590,
+		"PercentPopulationInfected" : 9.665369270389917
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 31991750,
+		"PercentPopulationInfected" : 9.665103977250066
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-07,
+		"HighestInfectionCount" : 1034975,
+		"PercentPopulationInfected" : 9.664550748147677
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-17,
+		"HighestInfectionCount" : 7466,
+		"PercentPopulationInfected" : 9.662848637804956
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 836334,
+		"PercentPopulationInfected" : 9.662411627418784
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 836158,
+		"PercentPopulationInfected" : 9.66037824787613
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-28,
+		"HighestInfectionCount" : 60465,
+		"PercentPopulationInfected" : 9.65931601211548
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-27,
+		"HighestInfectionCount" : 60465,
+		"PercentPopulationInfected" : 9.65931601211548
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-26,
+		"HighestInfectionCount" : 60465,
+		"PercentPopulationInfected" : 9.65931601211548
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-12,
+		"HighestInfectionCount" : 3278,
+		"PercentPopulationInfected" : 9.658789557428252
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-13,
+		"HighestInfectionCount" : 3278,
+		"PercentPopulationInfected" : 9.658789557428252
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-14,
+		"HighestInfectionCount" : 3278,
+		"PercentPopulationInfected" : 9.658789557428252
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 835933,
+		"PercentPopulationInfected" : 9.657778756983532
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 835813,
+		"PercentPopulationInfected" : 9.656392361840814
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-09,
+		"HighestInfectionCount" : 835674,
+		"PercentPopulationInfected" : 9.654786454133832
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-08,
+		"HighestInfectionCount" : 835486,
+		"PercentPopulationInfected" : 9.652614435076906
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-07,
+		"HighestInfectionCount" : 835216,
+		"PercentPopulationInfected" : 9.649495046005791
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-15,
+		"HighestInfectionCount" : 200579,
+		"PercentPopulationInfected" : 9.648175120686968
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 31929351,
+		"PercentPopulationInfected" : 9.646252466373781
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-06,
+		"HighestInfectionCount" : 834920,
+		"PercentPopulationInfected" : 9.646075271320417
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 164110,
+		"PercentPopulationInfected" : 9.644548635006345
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-05,
+		"HighestInfectionCount" : 834603,
+		"PercentPopulationInfected" : 9.64241287748507
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 973604,
+		"PercentPopulationInfected" : 9.640340341430619
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-14,
+		"HighestInfectionCount" : 200374,
+		"PercentPopulationInfected" : 9.63831428829803
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-04,
+		"HighestInfectionCount" : 834247,
+		"PercentPopulationInfected" : 9.638299905228338
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-16,
+		"HighestInfectionCount" : 7446,
+		"PercentPopulationInfected" : 9.636963696369637
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-03,
+		"HighestInfectionCount" : 834070,
+		"PercentPopulationInfected" : 9.636254972392829
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-02,
+		"HighestInfectionCount" : 833707,
+		"PercentPopulationInfected" : 9.632061127086105
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-04-01,
+		"HighestInfectionCount" : 833456,
+		"PercentPopulationInfected" : 9.629161250579253
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 31862094,
+		"PercentPopulationInfected" : 9.625933293518345
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-31,
+		"HighestInfectionCount" : 833105,
+		"PercentPopulationInfected" : 9.625106044786802
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 654870,
+		"PercentPopulationInfected" : 9.623936527605753
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-30,
+		"HighestInfectionCount" : 832639,
+		"PercentPopulationInfected" : 9.619722210315912
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-06,
+		"HighestInfectionCount" : 1030112,
+		"PercentPopulationInfected" : 9.619140269355201
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-25,
+		"HighestInfectionCount" : 60205,
+		"PercentPopulationInfected" : 9.617780873388117
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-29,
+		"HighestInfectionCount" : 832125,
+		"PercentPopulationInfected" : 9.613783817787935
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-13,
+		"HighestInfectionCount" : 199854,
+		"PercentPopulationInfected" : 9.613301445165114
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-28,
+		"HighestInfectionCount" : 831924,
+		"PercentPopulationInfected" : 9.611461605923882
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 31799237,
+		"PercentPopulationInfected" : 9.60694341516852
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-27,
+		"HighestInfectionCount" : 831383,
+		"PercentPopulationInfected" : 9.605211274488793
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-26,
+		"HighestInfectionCount" : 831383,
+		"PercentPopulationInfected" : 9.605211274488793
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-28,
+		"HighestInfectionCount" : 60288,
+		"PercentPopulationInfected" : 9.599052322859846
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-25,
+		"HighestInfectionCount" : 830845,
+		"PercentPopulationInfected" : 9.598995602932273
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-24,
+		"HighestInfectionCount" : 830028,
+		"PercentPopulationInfected" : 9.589556562668932
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 31737964,
+		"PercentPopulationInfected" : 9.588432082840717
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 163113,
+		"PercentPopulationInfected" : 9.585956136139112
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-23,
+		"HighestInfectionCount" : 829689,
+		"PercentPopulationInfected" : 9.585639996390752
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 967678,
+		"PercentPopulationInfected" : 9.581662833056251
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 651899,
+		"PercentPopulationInfected" : 9.580274861284932
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-22,
+		"HighestInfectionCount" : 828764,
+		"PercentPopulationInfected" : 9.574953200498964
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-12,
+		"HighestInfectionCount" : 199004,
+		"PercentPopulationInfected" : 9.572415066967077
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-24,
+		"HighestInfectionCount" : 59907,
+		"PercentPopulationInfected" : 9.570175214385216
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 31670031,
+		"PercentPopulationInfected" : 9.567908682011234
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-11,
+		"HighestInfectionCount" : 3247,
+		"PercentPopulationInfected" : 9.567446520124934
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-21,
+		"HighestInfectionCount" : 827772,
+		"PercentPopulationInfected" : 9.563492333985826
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-20,
+		"HighestInfectionCount" : 827220,
+		"PercentPopulationInfected" : 9.55711491632932
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 31628013,
+		"PercentPopulationInfected" : 9.55521452370742
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-15,
+		"HighestInfectionCount" : 7382,
+		"PercentPopulationInfected" : 9.554131883776613
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-14,
+		"HighestInfectionCount" : 7382,
+		"PercentPopulationInfected" : 9.554131883776613
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-19,
+		"HighestInfectionCount" : 826609,
+		"PercentPopulationInfected" : 9.550055854394312
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 31575640,
+		"PercentPopulationInfected" : 9.539391991629602
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-05,
+		"HighestInfectionCount" : 1021477,
+		"PercentPopulationInfected" : 9.538507021489064
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-18,
+		"HighestInfectionCount" : 825562,
+		"PercentPopulationInfected" : 9.537959556774094
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-11,
+		"HighestInfectionCount" : 198234,
+		"PercentPopulationInfected" : 9.535376818481797
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 648745,
+		"PercentPopulationInfected" : 9.533923836183662
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-23,
+		"HighestInfectionCount" : 59662,
+		"PercentPopulationInfected" : 9.531036333661353
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 162089,
+		"PercentPopulationInfected" : 9.525776879529237
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-27,
+		"HighestInfectionCount" : 59825,
+		"PercentPopulationInfected" : 9.525333486184486
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-17,
+		"HighestInfectionCount" : 824178,
+		"PercentPopulationInfected" : 9.52196979946141
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 31495649,
+		"PercentPopulationInfected" : 9.51522571962997
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 960520,
+		"PercentPopulationInfected" : 9.510786423177121
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-16,
+		"HighestInfectionCount" : 822703,
+		"PercentPopulationInfected" : 9.504928692498828
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-22,
+		"HighestInfectionCount" : 59497,
+		"PercentPopulationInfected" : 9.504677495622834
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-13,
+		"HighestInfectionCount" : 7338,
+		"PercentPopulationInfected" : 9.497185012618909
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-10,
+		"HighestInfectionCount" : 197374,
+		"PercentPopulationInfected" : 9.494009424069667
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 31421360,
+		"PercentPopulationInfected" : 9.492782092464656
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-15,
+		"HighestInfectionCount" : 820913,
+		"PercentPopulationInfected" : 9.48424829828661
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 645173,
+		"PercentPopulationInfected" : 9.48142990414126
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 31345985,
+		"PercentPopulationInfected" : 9.470010371246367
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-10,
+		"HighestInfectionCount" : 3213,
+		"PercentPopulationInfected" : 9.467263834050327
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-04,
+		"HighestInfectionCount" : 1013352,
+		"PercentPopulationInfected" : 9.462636131053353
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-14,
+		"HighestInfectionCount" : 818977,
+		"PercentPopulationInfected" : 9.461881123317422
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 160934,
+		"PercentPopulationInfected" : 9.45789890942728
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-13,
+		"HighestInfectionCount" : 817799,
+		"PercentPopulationInfected" : 9.448271344333069
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-09,
+		"HighestInfectionCount" : 196421,
+		"PercentPopulationInfected" : 9.448168578866456
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 31268107,
+		"PercentPopulationInfected" : 9.446482462721818
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 953254,
+		"PercentPopulationInfected" : 9.438840629075171
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 642208,
+		"PercentPopulationInfected" : 9.437856413518157
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-26,
+		"HighestInfectionCount" : 59262,
+		"PercentPopulationInfected" : 9.435692654546845
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-12,
+		"HighestInfectionCount" : 7288,
+		"PercentPopulationInfected" : 9.432472659030608
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-12,
+		"HighestInfectionCount" : 816198,
+		"PercentPopulationInfected" : 9.429774522470636
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 31197877,
+		"PercentPopulationInfected" : 9.425265109737929
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-21,
+		"HighestInfectionCount" : 58955,
+		"PercentPopulationInfected" : 9.41809270642964
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-20,
+		"HighestInfectionCount" : 58955,
+		"PercentPopulationInfected" : 9.41809270642964
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-19,
+		"HighestInfectionCount" : 58955,
+		"PercentPopulationInfected" : 9.41809270642964
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-08,
+		"HighestInfectionCount" : 195678,
+		"PercentPopulationInfected" : 9.412429074159231
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 31151497,
+		"PercentPopulationInfected" : 9.411253137199232
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-11,
+		"HighestInfectionCount" : 814250,
+		"PercentPopulationInfected" : 9.407268707987173
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-07,
+		"HighestInfectionCount" : 195468,
+		"PercentPopulationInfected" : 9.402327733663245
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 159964,
+		"PercentPopulationInfected" : 9.40089316830269
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 639476,
+		"PercentPopulationInfected" : 9.397707079156499
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-09,
+		"HighestInfectionCount" : 31084962,
+		"PercentPopulationInfected" : 9.39115208948767
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-09,
+		"HighestInfectionCount" : 3187,
+		"PercentPopulationInfected" : 9.390653544699157
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-06,
+		"HighestInfectionCount" : 195086,
+		"PercentPopulationInfected" : 9.383952914284835
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-10,
+		"HighestInfectionCount" : 811492,
+		"PercentPopulationInfected" : 9.37540472629036
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-18,
+		"HighestInfectionCount" : 58674,
+		"PercentPopulationInfected" : 9.373202806497375
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-03,
+		"HighestInfectionCount" : 1003657,
+		"PercentPopulationInfected" : 9.372104650096526
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-08,
+		"HighestInfectionCount" : 31002264,
+		"PercentPopulationInfected" : 9.366167999254701
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-11,
+		"HighestInfectionCount" : 7236,
+		"PercentPopulationInfected" : 9.365171811298776
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-09,
+		"HighestInfectionCount" : 636418,
+		"PercentPopulationInfected" : 9.352766865218744
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-25,
+		"HighestInfectionCount" : 58697,
+		"PercentPopulationInfected" : 9.345733383009957
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-07,
+		"HighestInfectionCount" : 30922386,
+		"PercentPopulationInfected" : 9.342035865954873
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-05,
+		"HighestInfectionCount" : 194165,
+		"PercentPopulationInfected" : 9.339651320966727
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-09,
+		"HighestInfectionCount" : 808262,
+		"PercentPopulationInfected" : 9.338087590365523
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 158789,
+		"PercentPopulationInfected" : 9.331839822095073
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-17,
+		"HighestInfectionCount" : 58408,
+		"PercentPopulationInfected" : 9.33070916456861
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-06,
+		"HighestInfectionCount" : 30847348,
+		"PercentPopulationInfected" : 9.319365956611216
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-10,
+		"HighestInfectionCount" : 7190,
+		"PercentPopulationInfected" : 9.305636445997541
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-08,
+		"HighestInfectionCount" : 633013,
+		"PercentPopulationInfected" : 9.30272715676287
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-08,
+		"HighestInfectionCount" : 805116,
+		"PercentPopulationInfected" : 9.301740931040591
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-05,
+		"HighestInfectionCount" : 30786804,
+		"PercentPopulationInfected" : 9.301074864214002
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-04,
+		"HighestInfectionCount" : 193285,
+		"PercentPopulationInfected" : 9.297321894126407
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 938343,
+		"PercentPopulationInfected" : 9.291196294385633
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 938343,
+		"PercentPopulationInfected" : 9.291196294385633
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 938343,
+		"PercentPopulationInfected" : 9.291196294385633
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 938343,
+		"PercentPopulationInfected" : 9.291196294385633
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-02,
+		"HighestInfectionCount" : 994514,
+		"PercentPopulationInfected" : 9.286727720711454
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-24,
+		"HighestInfectionCount" : 58316,
+		"PercentPopulationInfected" : 9.285070582203668
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-16,
+		"HighestInfectionCount" : 58111,
+		"PercentPopulationInfected" : 9.283263256099275
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-04,
+		"HighestInfectionCount" : 30709125,
+		"PercentPopulationInfected" : 9.27760707605459
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 157729,
+		"PercentPopulationInfected" : 9.269544888495007
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-09,
+		"HighestInfectionCount" : 7162,
+		"PercentPopulationInfected" : 9.269397527988094
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-03,
+		"HighestInfectionCount" : 30674153,
+		"PercentPopulationInfected" : 9.26704160163408
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-07,
+		"HighestInfectionCount" : 801575,
+		"PercentPopulationInfected" : 9.260830721037541
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-15,
+		"HighestInfectionCount" : 57926,
+		"PercentPopulationInfected" : 9.25370940738942
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-07,
+		"HighestInfectionCount" : 629388,
+		"PercentPopulationInfected" : 9.249454339390612
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-03,
+		"HighestInfectionCount" : 192266,
+		"PercentPopulationInfected" : 9.248306341910173
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-02,
+		"HighestInfectionCount" : 30611086,
+		"PercentPopulationInfected" : 9.24798827968285
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-08,
+		"HighestInfectionCount" : 3137,
+		"PercentPopulationInfected" : 9.243326065177678
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-06,
+		"HighestInfectionCount" : 799727,
+		"PercentPopulationInfected" : 9.239480235839679
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 932076,
+		"PercentPopulationInfected" : 9.22914230434477
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-04-01,
+		"HighestInfectionCount" : 30541255,
+		"PercentPopulationInfected" : 9.22689146954163
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-08,
+		"HighestInfectionCount" : 7127,
+		"PercentPopulationInfected" : 9.224098880476284
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-23,
+		"HighestInfectionCount" : 57929,
+		"PercentPopulationInfected" : 9.22345246169964
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-02-01,
+		"HighestInfectionCount" : 987329,
+		"PercentPopulationInfected" : 9.219634508676922
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-06,
+		"HighestInfectionCount" : 3127,
+		"PercentPopulationInfected" : 9.21386056927338
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-07,
+		"HighestInfectionCount" : 3127,
+		"PercentPopulationInfected" : 9.21386056927338
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-31,
+		"HighestInfectionCount" : 30462210,
+		"PercentPopulationInfected" : 9.203010995860707
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-05,
+		"HighestInfectionCount" : 796465,
+		"PercentPopulationInfected" : 9.201793394543449
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 122019,
+		"PercentPopulationInfected" : 9.198297223074482
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-06,
+		"HighestInfectionCount" : 625773,
+		"PercentPopulationInfected" : 9.196328481514552
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-31,
+		"HighestInfectionCount" : 984774,
+		"PercentPopulationInfected" : 9.19577603174606
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 156462,
+		"PercentPopulationInfected" : 9.195084812201344
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-02,
+		"HighestInfectionCount" : 191056,
+		"PercentPopulationInfected" : 9.190103380004732
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-14,
+		"HighestInfectionCount" : 57503,
+		"PercentPopulationInfected" : 9.186134931690672
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-13,
+		"HighestInfectionCount" : 57503,
+		"PercentPopulationInfected" : 9.186134931690672
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-12,
+		"HighestInfectionCount" : 57503,
+		"PercentPopulationInfected" : 9.186134931690672
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-30,
+		"HighestInfectionCount" : 30395171,
+		"PercentPopulationInfected" : 9.182757683505775
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 121657,
+		"PercentPopulationInfected" : 9.171008164856065
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-07,
+		"HighestInfectionCount" : 7084,
+		"PercentPopulationInfected" : 9.168446256390345
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-04,
+		"HighestInfectionCount" : 3111,
+		"PercentPopulationInfected" : 9.166715775826507
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-05,
+		"HighestInfectionCount" : 3111,
+		"PercentPopulationInfected" : 9.166715775826507
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-04,
+		"HighestInfectionCount" : 793407,
+		"PercentPopulationInfected" : 9.166463424989841
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-29,
+		"HighestInfectionCount" : 30333922,
+		"PercentPopulationInfected" : 9.164253601875275
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-30,
+		"HighestInfectionCount" : 980714,
+		"PercentPopulationInfected" : 9.15786393141757
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-11,
+		"HighestInfectionCount" : 57321,
+		"PercentPopulationInfected" : 9.157060334581518
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-03-01,
+		"HighestInfectionCount" : 190324,
+		"PercentPopulationInfected" : 9.154892993133013
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 924340,
+		"PercentPopulationInfected" : 9.1525427085324
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-22,
+		"HighestInfectionCount" : 57482,
+		"PercentPopulationInfected" : 9.152281144218245
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-28,
+		"HighestInfectionCount" : 30264493,
+		"PercentPopulationInfected" : 9.143278240913887
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-28,
+		"HighestInfectionCount" : 190081,
+		"PercentPopulationInfected" : 9.143204299130515
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 121232,
+		"PercentPopulationInfected" : 9.13896990589798
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 155402,
+		"PercentPopulationInfected" : 9.13278987860128
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-05,
+		"HighestInfectionCount" : 621375,
+		"PercentPopulationInfected" : 9.131695695086085
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-27,
+		"HighestInfectionCount" : 30221396,
+		"PercentPopulationInfected" : 9.130258103343808
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-06,
+		"HighestInfectionCount" : 7050,
+		"PercentPopulationInfected" : 9.1244418559503
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-27,
+		"HighestInfectionCount" : 189627,
+		"PercentPopulationInfected" : 9.121366163010624
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-03,
+		"HighestInfectionCount" : 789485,
+		"PercentPopulationInfected" : 9.121151410408663
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-03,
+		"HighestInfectionCount" : 3094,
+		"PercentPopulationInfected" : 9.116624432789203
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-10,
+		"HighestInfectionCount" : 57056,
+		"PercentPopulationInfected" : 9.11472644318632
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-26,
+		"HighestInfectionCount" : 30158696,
+		"PercentPopulationInfected" : 9.111315656638842
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 120836,
+		"PercentPopulationInfected" : 9.109117786962917
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-25,
+		"HighestInfectionCount" : 30081375,
+		"PercentPopulationInfected" : 9.087956024714208
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 247269,
+		"PercentPopulationInfected" : 9.083121532562096
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-29,
+		"HighestInfectionCount" : 972642,
+		"PercentPopulationInfected" : 9.082487952636395
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 916830,
+		"PercentPopulationInfected" : 9.078180898223337
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-09,
+		"HighestInfectionCount" : 56822,
+		"PercentPopulationInfected" : 9.077344818331694
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-04,
+		"HighestInfectionCount" : 617669,
+		"PercentPopulationInfected" : 9.077232505794614
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-26,
+		"HighestInfectionCount" : 188676,
+		"PercentPopulationInfected" : 9.07562152105023
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-21,
+		"HighestInfectionCount" : 56998,
+		"PercentPopulationInfected" : 9.075218688600808
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 120378,
+		"PercentPopulationInfected" : 9.074591851426907
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-02,
+		"HighestInfectionCount" : 785218,
+		"PercentPopulationInfected" : 9.071853509792167
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-24,
+		"HighestInfectionCount" : 30013910,
+		"PercentPopulationInfected" : 9.067574012482142
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-09,
+		"HighestInfectionCount" : 154280,
+		"PercentPopulationInfected" : 9.066851279073662
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-05,
+		"HighestInfectionCount" : 7005,
+		"PercentPopulationInfected" : 9.06620073772083
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 120215,
+		"PercentPopulationInfected" : 9.062304236814748
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-08,
+		"HighestInfectionCount" : 56677,
+		"PercentPopulationInfected" : 9.05418099096451
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 120000,
+		"PercentPopulationInfected" : 9.046096646988893
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-23,
+		"HighestInfectionCount" : 29926950,
+		"PercentPopulationInfected" : 9.041302319253054
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-02,
+		"HighestInfectionCount" : 3066,
+		"PercentPopulationInfected" : 9.034121044257175
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 245896,
+		"PercentPopulationInfected" : 9.032686072135565
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-25,
+		"HighestInfectionCount" : 187762,
+		"PercentPopulationInfected" : 9.03165663908199
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-03,
+		"HighestInfectionCount" : 614365,
+		"PercentPopulationInfected" : 9.028677088250353
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-22,
+		"HighestInfectionCount" : 29873347,
+		"PercentPopulationInfected" : 9.025108188938441
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 119610,
+		"PercentPopulationInfected" : 9.01669683288618
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-03-01,
+		"HighestInfectionCount" : 779958,
+		"PercentPopulationInfected" : 9.011083189369677
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-21,
+		"HighestInfectionCount" : 29821754,
+		"PercentPopulationInfected" : 9.00952130452298
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-20,
+		"HighestInfectionCount" : 56579,
+		"PercentPopulationInfected" : 9.00850552970885
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-28,
+		"HighestInfectionCount" : 964660,
+		"PercentPopulationInfected" : 9.007952389872353
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-04,
+		"HighestInfectionCount" : 6955,
+		"PercentPopulationInfected" : 9.00148838413253
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-20,
+		"HighestInfectionCount" : 29787986,
+		"PercentPopulationInfected" : 8.999319573417187
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-08,
+		"HighestInfectionCount" : 153074,
+		"PercentPopulationInfected" : 8.995976099902267
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-24,
+		"HighestInfectionCount" : 187005,
+		"PercentPopulationInfected" : 8.995243711675032
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-07,
+		"HighestInfectionCount" : 56296,
+		"PercentPopulationInfected" : 8.993316037675566
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-06,
+		"HighestInfectionCount" : 56296,
+		"PercentPopulationInfected" : 8.993316037675566
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-05,
+		"HighestInfectionCount" : 56296,
+		"PercentPopulationInfected" : 8.993316037675566
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 119218,
+		"PercentPopulationInfected" : 8.987146250506015
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 244555,
+		"PercentPopulationInfected" : 8.983426092214241
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-19,
+		"HighestInfectionCount" : 29732612,
+		"PercentPopulationInfected" : 8.982590402064066
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-02,
+		"HighestInfectionCount" : 610232,
+		"PercentPopulationInfected" : 8.967938728471168
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-18,
+		"HighestInfectionCount" : 29670983,
+		"PercentPopulationInfected" : 8.96397151772626
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-04,
+		"HighestInfectionCount" : 56110,
+		"PercentPopulationInfected" : 8.963602438432144
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-28,
+		"HighestInfectionCount" : 775807,
+		"PercentPopulationInfected" : 8.963125470724476
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 118789,
+		"PercentPopulationInfected" : 8.954806454993031
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-19,
+		"HighestInfectionCount" : 56228,
+		"PercentPopulationInfected" : 8.952619327391245
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-17,
+		"HighestInfectionCount" : 29610445,
+		"PercentPopulationInfected" : 8.945682238003371
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-23,
+		"HighestInfectionCount" : 185916,
+		"PercentPopulationInfected" : 8.942861045960138
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-03,
+		"HighestInfectionCount" : 6904,
+		"PercentPopulationInfected" : 8.935481783472465
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-27,
+		"HighestInfectionCount" : 773335,
+		"PercentPopulationInfected" : 8.934565730784477
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-03,
+		"HighestInfectionCount" : 55902,
+		"PercentPopulationInfected" : 8.930374327450254
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-07,
+		"HighestInfectionCount" : 151931,
+		"PercentPopulationInfected" : 8.928803355463707
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-27,
+		"HighestInfectionCount" : 956155,
+		"PercentPopulationInfected" : 8.928533076253187
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-16,
+		"HighestInfectionCount" : 29551309,
+		"PercentPopulationInfected" : 8.927816519847951
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 242926,
+		"PercentPopulationInfected" : 8.923586787746055
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 118317,
+		"PercentPopulationInfected" : 8.919225141514875
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-31,
+		"HighestInfectionCount" : 3025,
+		"PercentPopulationInfected" : 8.913312511049561
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-02-01,
+		"HighestInfectionCount" : 3025,
+		"PercentPopulationInfected" : 8.913312511049561
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 900138,
+		"PercentPopulationInfected" : 8.912901625563036
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 900138,
+		"PercentPopulationInfected" : 8.912901625563036
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 900138,
+		"PercentPopulationInfected" : 8.912901625563036
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 900138,
+		"PercentPopulationInfected" : 8.912901625563036
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-15,
+		"HighestInfectionCount" : 29497352,
+		"PercentPopulationInfected" : 8.911515441748113
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-26,
+		"HighestInfectionCount" : 770780,
+		"PercentPopulationInfected" : 8.905047067537431
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-22,
+		"HighestInfectionCount" : 185014,
+		"PercentPopulationInfected" : 8.89947338344881
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-04-01,
+		"HighestInfectionCount" : 605406,
+		"PercentPopulationInfected" : 8.89701607560537
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-14,
+		"HighestInfectionCount" : 29440686,
+		"PercentPopulationInfected" : 8.894395941190163
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 1522973,
+		"PercentPopulationInfected" : 8.888148747878084
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-21,
+		"HighestInfectionCount" : 184767,
+		"PercentPopulationInfected" : 8.887592282960673
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-02,
+		"HighestInfectionCount" : 55632,
+		"PercentPopulationInfected" : 8.887241683387224
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-18,
+		"HighestInfectionCount" : 55803,
+		"PercentPopulationInfected" : 8.884950848801552
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 241872,
+		"PercentPopulationInfected" : 8.884869398605806
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-13,
+		"HighestInfectionCount" : 29402465,
+		"PercentPopulationInfected" : 8.882848903622213
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 117782,
+		"PercentPopulationInfected" : 8.878894627297049
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-25,
+		"HighestInfectionCount" : 767726,
+		"PercentPopulationInfected" : 8.869763311155248
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-20,
+		"HighestInfectionCount" : 184352,
+		"PercentPopulationInfected" : 8.86763011007575
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-12,
+		"HighestInfectionCount" : 29349533,
+		"PercentPopulationInfected" : 8.866857490719704
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 241297,
+		"PercentPopulationInfected" : 8.863747483277871
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-06,
+		"HighestInfectionCount" : 150811,
+		"PercentPopulationInfected" : 8.862982293546656
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-03-01,
+		"HighestInfectionCount" : 55480,
+		"PercentPopulationInfected" : 8.862959602285072
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 117554,
+		"PercentPopulationInfected" : 8.86170704366777
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-02,
+		"HighestInfectionCount" : 6842,
+		"PercentPopulationInfected" : 8.855238465022973
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-11,
+		"HighestInfectionCount" : 29288010,
+		"PercentPopulationInfected" : 8.848270630294989
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 1515165,
+		"PercentPopulationInfected" : 8.8425808583466
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-26,
+		"HighestInfectionCount" : 946946,
+		"PercentPopulationInfected" : 8.842539841788884
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 892480,
+		"PercentPopulationInfected" : 8.83707436280048
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-17,
+		"HighestInfectionCount" : 55493,
+		"PercentPopulationInfected" : 8.835592664418481
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 240522,
+		"PercentPopulationInfected" : 8.835278814792394
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-10,
+		"HighestInfectionCount" : 29225536,
+		"PercentPopulationInfected" : 8.82939646098963
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-29,
+		"HighestInfectionCount" : 2996,
+		"PercentPopulationInfected" : 8.827862572927101
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-30,
+		"HighestInfectionCount" : 2996,
+		"PercentPopulationInfected" : 8.827862572927101
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-31,
+		"HighestInfectionCount" : 600596,
+		"PercentPopulationInfected" : 8.826328557933492
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-24,
+		"HighestInfectionCount" : 763756,
+		"PercentPopulationInfected" : 8.82389673851698
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-19,
+		"HighestInfectionCount" : 183396,
+		"PercentPopulationInfected" : 8.821644960008312
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 117011,
+		"PercentPopulationInfected" : 8.820773456340145
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-09,
+		"HighestInfectionCount" : 29167616,
+		"PercentPopulationInfected" : 8.811898111497579
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-28,
+		"HighestInfectionCount" : 55110,
+		"PercentPopulationInfected" : 8.803851904865361
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-27,
+		"HighestInfectionCount" : 55110,
+		"PercentPopulationInfected" : 8.803851904865361
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-26,
+		"HighestInfectionCount" : 55110,
+		"PercentPopulationInfected" : 8.803851904865361
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-05,
+		"HighestInfectionCount" : 149791,
+		"PercentPopulationInfected" : 8.803038112157914
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 116678,
+		"PercentPopulationInfected" : 8.795670538144751
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-08,
+		"HighestInfectionCount" : 29109974,
+		"PercentPopulationInfected" : 8.794483749249292
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 1506476,
+		"PercentPopulationInfected" : 8.791871407509118
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 239263,
+		"PercentPopulationInfected" : 8.789031003665663
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-12-01,
+		"HighestInfectionCount" : 6790,
+		"PercentPopulationInfected" : 8.78793761729114
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-07,
+		"HighestInfectionCount" : 29064938,
+		"PercentPopulationInfected" : 8.780877815759581
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-16,
+		"HighestInfectionCount" : 55136,
+		"PercentPopulationInfected" : 8.77875114240314
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-18,
+		"HighestInfectionCount" : 182484,
+		"PercentPopulationInfected" : 8.77777628128289
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-25,
+		"HighestInfectionCount" : 940004,
+		"PercentPopulationInfected" : 8.777715753000612
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-23,
+		"HighestInfectionCount" : 759572,
+		"PercentPopulationInfected" : 8.775557761207532
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-06,
+		"HighestInfectionCount" : 29023931,
+		"PercentPopulationInfected" : 8.768489093079669
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 885385,
+		"PercentPopulationInfected" : 8.766821760384662
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-25,
+		"HighestInfectionCount" : 54871,
+		"PercentPopulationInfected" : 8.765671527342901
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 116200,
+		"PercentPopulationInfected" : 8.759636919834245
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-24,
+		"HighestInfectionCount" : 937617,
+		"PercentPopulationInfected" : 8.755426052635068
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-30,
+		"HighestInfectionCount" : 595489,
+		"PercentPopulationInfected" : 8.751276343224491
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-05,
+		"HighestInfectionCount" : 28965728,
+		"PercentPopulationInfected" : 8.750905245781917
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-28,
+		"HighestInfectionCount" : 2969,
+		"PercentPopulationInfected" : 8.748305733985504
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-04,
+		"HighestInfectionCount" : 148817,
+		"PercentPopulationInfected" : 8.745797295812194
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 1497806,
+		"PercentPopulationInfected" : 8.741272841648724
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 237950,
+		"PercentPopulationInfected" : 8.740799569186395
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-17,
+		"HighestInfectionCount" : 181606,
+		"PercentPopulationInfected" : 8.735543057685389
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-24,
+		"HighestInfectionCount" : 54678,
+		"PercentPopulationInfected" : 8.734839674364512
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-04,
+		"HighestInfectionCount" : 28899277,
+		"PercentPopulationInfected" : 8.730829575510917
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-11-30,
+		"HighestInfectionCount" : 6745,
+		"PercentPopulationInfected" : 8.72969649906167
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-22,
+		"HighestInfectionCount" : 754998,
+		"PercentPopulationInfected" : 8.722712999684248
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 115629,
+		"PercentPopulationInfected" : 8.716592576622324
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-23,
+		"HighestInfectionCount" : 933361,
+		"PercentPopulationInfected" : 8.715683712980375
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-15,
+		"HighestInfectionCount" : 54730,
+		"PercentPopulationInfected" : 8.714107842856277
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-03,
+		"HighestInfectionCount" : 28831226,
+		"PercentPopulationInfected" : 8.710270525419697
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 1492437,
+		"PercentPopulationInfected" : 8.709939081544404
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-02,
+		"HighestInfectionCount" : 28764033,
+		"PercentPopulationInfected" : 8.689970687757068
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 236533,
+		"PercentPopulationInfected" : 8.688747823065205
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-11-29,
+		"HighestInfectionCount" : 6712,
+		"PercentPopulationInfected" : 8.686986345693393
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-03,
+		"HighestInfectionCount" : 147770,
+		"PercentPopulationInfected" : 8.684266356680808
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-16,
+		"HighestInfectionCount" : 180520,
+		"PercentPopulationInfected" : 8.683304696834721
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-23,
+		"HighestInfectionCount" : 54354,
+		"PercentPopulationInfected" : 8.683080501488876
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 876506,
+		"PercentPopulationInfected" : 8.678904514880777
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 115080,
+		"PercentPopulationInfected" : 8.67520668446235
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 1486205,
+		"PercentPopulationInfected" : 8.673568809059747
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-03-01,
+		"HighestInfectionCount" : 28706973,
+		"PercentPopulationInfected" : 8.672732154918386
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-27,
+		"HighestInfectionCount" : 2941,
+		"PercentPopulationInfected" : 8.665802345453475
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-21,
+		"HighestInfectionCount" : 750043,
+		"PercentPopulationInfected" : 8.665466433582834
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-28,
+		"HighestInfectionCount" : 28648744,
+		"PercentPopulationInfected" : 8.655140452698555
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-22,
+		"HighestInfectionCount" : 54172,
+		"PercentPopulationInfected" : 8.654005904379721
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-14,
+		"HighestInfectionCount" : 54316,
+		"PercentPopulationInfected" : 8.648190783712437
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-15,
+		"HighestInfectionCount" : 179780,
+		"PercentPopulationInfected" : 8.647709496991725
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 235383,
+		"PercentPopulationInfected" : 8.646503992409334
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-27,
+		"HighestInfectionCount" : 28597387,
+		"PercentPopulationInfected" : 8.63962486680658
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-22,
+		"HighestInfectionCount" : 924847,
+		"PercentPopulationInfected" : 8.636180357759496
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-14,
+		"HighestInfectionCount" : 179477,
+		"PercentPopulationInfected" : 8.63313470570466
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 114443,
+		"PercentPopulationInfected" : 8.627186988094584
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 1478144,
+		"PercentPopulationInfected" : 8.626524398517573
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-26,
+		"HighestInfectionCount" : 28532812,
+		"PercentPopulationInfected" : 8.62011595937479
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-13,
+		"HighestInfectionCount" : 179148,
+		"PercentPopulationInfected" : 8.617309272260949
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-02,
+		"HighestInfectionCount" : 146454,
+		"PercentPopulationInfected" : 8.606926608928275
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 114174,
+		"PercentPopulationInfected" : 8.606908654777582
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-29,
+		"HighestInfectionCount" : 585506,
+		"PercentPopulationInfected" : 8.604566678168696
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-28,
+		"HighestInfectionCount" : 585506,
+		"PercentPopulationInfected" : 8.604566678168696
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 234232,
+		"PercentPopulationInfected" : 8.604223427987677
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-20,
+		"HighestInfectionCount" : 744513,
+		"PercentPopulationInfected" : 8.60157672408923
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-19,
+		"HighestInfectionCount" : 744513,
+		"PercentPopulationInfected" : 8.60157672408923
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-25,
+		"HighestInfectionCount" : 28455466,
+		"PercentPopulationInfected" : 8.596748774640464
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-21,
+		"HighestInfectionCount" : 53782,
+		"PercentPopulationInfected" : 8.591703196288677
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-20,
+		"HighestInfectionCount" : 53782,
+		"PercentPopulationInfected" : 8.591703196288677
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-19,
+		"HighestInfectionCount" : 53782,
+		"PercentPopulationInfected" : 8.591703196288677
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-26,
+		"HighestInfectionCount" : 2915,
+		"PercentPopulationInfected" : 8.589192056102304
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 233631,
+		"PercentPopulationInfected" : 8.58214643474926
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 1470037,
+		"PercentPopulationInfected" : 8.57921152960982
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 113736,
+		"PercentPopulationInfected" : 8.573890402016074
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-24,
+		"HighestInfectionCount" : 28377965,
+		"PercentPopulationInfected" : 8.573334762486054
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-13,
+		"HighestInfectionCount" : 53840,
+		"PercentPopulationInfected" : 8.57240208769198
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-18,
+		"HighestInfectionCount" : 741934,
+		"PercentPopulationInfected" : 8.571780781813638
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-12,
+		"HighestInfectionCount" : 178133,
+		"PercentPopulationInfected" : 8.568486126530352
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-21,
+		"HighestInfectionCount" : 917359,
+		"PercentPopulationInfected" : 8.566257745133944
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-18,
+		"HighestInfectionCount" : 53562,
+		"PercentPopulationInfected" : 8.556558078903983
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-11-28,
+		"HighestInfectionCount" : 6610,
+		"PercentPopulationInfected" : 8.55497314437326
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-11-27,
+		"HighestInfectionCount" : 6610,
+		"PercentPopulationInfected" : 8.55497314437326
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 232829,
+		"PercentPopulationInfected" : 8.552685954587515
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-23,
+		"HighestInfectionCount" : 28303233,
+		"PercentPopulationInfected" : 8.550757299533016
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-27,
+		"HighestInfectionCount" : 581617,
+		"PercentPopulationInfected" : 8.547414130096776
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 990229,
+		"PercentPopulationInfected" : 8.544105343956176
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-04-01,
+		"HighestInfectionCount" : 145380,
+		"PercentPopulationInfected" : 8.543808912054246
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-17,
+		"HighestInfectionCount" : 738629,
+		"PercentPopulationInfected" : 8.533597148924601
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-22,
+		"HighestInfectionCount" : 28230970,
+		"PercentPopulationInfected" : 8.528925752065058
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-09,
+		"HighestInfectionCount" : 113098,
+		"PercentPopulationInfected" : 8.525795321509582
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 1460753,
+		"PercentPopulationInfected" : 8.525029628174075
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-11,
+		"HighestInfectionCount" : 177140,
+		"PercentPopulationInfected" : 8.520721216470765
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-17,
+		"HighestInfectionCount" : 53329,
+		"PercentPopulationInfected" : 8.519336204582924
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 986622,
+		"PercentPopulationInfected" : 8.512982656198446
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-25,
+		"HighestInfectionCount" : 2889,
+		"PercentPopulationInfected" : 8.512581766751135
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-21,
+		"HighestInfectionCount" : 28174750,
+		"PercentPopulationInfected" : 8.511940993631994
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 231601,
+		"PercentPopulationInfected" : 8.507576890200202
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-20,
+		"HighestInfectionCount" : 28117670,
+		"PercentPopulationInfected" : 8.49469641854556
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-12,
+		"HighestInfectionCount" : 53338,
+		"PercentPopulationInfected" : 8.49247367298133
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 857401,
+		"PercentPopulationInfected" : 8.489732426205062
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 857401,
+		"PercentPopulationInfected" : 8.489732426205062
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 857401,
+		"PercentPopulationInfected" : 8.489732426205062
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-09,
+		"HighestInfectionCount" : 857401,
+		"PercentPopulationInfected" : 8.489732426205062
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-20,
+		"HighestInfectionCount" : 909131,
+		"PercentPopulationInfected" : 8.489425045256402
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-03-31,
+		"HighestInfectionCount" : 144445,
+		"PercentPopulationInfected" : 8.488860079114566
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-16,
+		"HighestInfectionCount" : 734575,
+		"PercentPopulationInfected" : 8.486760099686432
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 982959,
+		"PercentPopulationInfected" : 8.481376777280628
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-16,
+		"HighestInfectionCount" : 53062,
+		"PercentPopulationInfected" : 8.476682812120591
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-08,
+		"HighestInfectionCount" : 112421,
+		"PercentPopulationInfected" : 8.47476025959282
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-19,
+		"HighestInfectionCount" : 28046145,
+		"PercentPopulationInfected" : 8.47308783001968
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 1451071,
+		"PercentPopulationInfected" : 8.468524978270922
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-23,
+		"HighestInfectionCount" : 2874,
+		"PercentPopulationInfected" : 8.46838352289469
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-24,
+		"HighestInfectionCount" : 2874,
+		"PercentPopulationInfected" : 8.46838352289469
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 230462,
+		"PercentPopulationInfected" : 8.465737130967996
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-11-26,
+		"HighestInfectionCount" : 6534,
+		"PercentPopulationInfected" : 8.456610366919044
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-10,
+		"HighestInfectionCount" : 175795,
+		"PercentPopulationInfected" : 8.456024535675049
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-15,
+		"HighestInfectionCount" : 52923,
+		"PercentPopulationInfected" : 8.45447748795481
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 364576,
+		"PercentPopulationInfected" : 8.449492533549892
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-18,
+		"HighestInfectionCount" : 27966848,
+		"PercentPopulationInfected" : 8.44913122401707
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 979034,
+		"PercentPopulationInfected" : 8.44751025400669
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 364218,
+		"PercentPopulationInfected" : 8.441195447820139
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-03-30,
+		"HighestInfectionCount" : 143574,
+		"PercentPopulationInfected" : 8.437672449713004
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-15,
+		"HighestInfectionCount" : 730293,
+		"PercentPopulationInfected" : 8.437288899677096
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 363895,
+		"PercentPopulationInfected" : 8.433709529689661
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-22,
+		"HighestInfectionCount" : 2861,
+		"PercentPopulationInfected" : 8.430078378219106
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-17,
+		"HighestInfectionCount" : 27896924,
+		"PercentPopulationInfected" : 8.428006317423801
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-27,
+		"HighestInfectionCount" : 363533,
+		"PercentPopulationInfected" : 8.425319739091417
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 976088,
+		"PercentPopulationInfected" : 8.422090947620697
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 229260,
+		"PercentPopulationInfected" : 8.421583144491166
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 1442481,
+		"PercentPopulationInfected" : 8.41839329652458
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-07,
+		"HighestInfectionCount" : 111664,
+		"PercentPopulationInfected" : 8.417694466578066
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-26,
+		"HighestInfectionCount" : 363165,
+		"PercentPopulationInfected" : 8.416790891190441
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-08,
+		"HighestInfectionCount" : 849629,
+		"PercentPopulationInfected" : 8.412776368985085
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 362967,
+		"PercentPopulationInfected" : 8.412202000200244
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-11,
+		"HighestInfectionCount" : 52819,
+		"PercentPopulationInfected" : 8.409838519127092
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-25,
+		"HighestInfectionCount" : 974418,
+		"PercentPopulationInfected" : 8.407681496953826
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-16,
+		"HighestInfectionCount" : 27826806,
+		"PercentPopulationInfected" : 8.406822801027328
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 362696,
+		"PercentPopulationInfected" : 8.40592124536012
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-26,
+		"HighestInfectionCount" : 571895,
+		"PercentPopulationInfected" : 8.404540107891783
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-25,
+		"HighestInfectionCount" : 571895,
+		"PercentPopulationInfected" : 8.404540107891783
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-19,
+		"HighestInfectionCount" : 899503,
+		"PercentPopulationInfected" : 8.399519207334553
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 362358,
+		"PercentPopulationInfected" : 8.398087683972811
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-14,
+		"HighestInfectionCount" : 52539,
+		"PercentPopulationInfected" : 8.393133283065165
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-13,
+		"HighestInfectionCount" : 52539,
+		"PercentPopulationInfected" : 8.393133283065165
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-12,
+		"HighestInfectionCount" : 52539,
+		"PercentPopulationInfected" : 8.393133283065165
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 361992,
+		"PercentPopulationInfected" : 8.38960518850608
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-15,
+		"HighestInfectionCount" : 27764087,
+		"PercentPopulationInfected" : 8.387874614186998
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-09,
+		"HighestInfectionCount" : 174364,
+		"PercentPopulationInfected" : 8.38719111543812
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-24,
+		"HighestInfectionCount" : 972041,
+		"PercentPopulationInfected" : 8.387171757890858
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-03-29,
+		"HighestInfectionCount" : 142669,
+		"PercentPopulationInfected" : 8.384486680931815
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 361678,
+		"PercentPopulationInfected" : 8.382327856329704
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 1435601,
+		"PercentPopulationInfected" : 8.378241262716099
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-20,
+		"HighestInfectionCount" : 361319,
+		"PercentPopulationInfected" : 8.374007594382826
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-14,
+		"HighestInfectionCount" : 27709901,
+		"PercentPopulationInfected" : 8.37150435235039
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 227889,
+		"PercentPopulationInfected" : 8.37122115159621
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-08,
+		"HighestInfectionCount" : 174000,
+		"PercentPopulationInfected" : 8.369682125245077
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-11,
+		"HighestInfectionCount" : 52392,
+		"PercentPopulationInfected" : 8.369649954630848
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-14,
+		"HighestInfectionCount" : 724380,
+		"PercentPopulationInfected" : 8.368974279019648
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-19,
+		"HighestInfectionCount" : 361044,
+		"PercentPopulationInfected" : 8.367634134674216
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 360841,
+		"PercentPopulationInfected" : 8.362929362598406
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 360597,
+		"PercentPopulationInfected" : 8.357274365620585
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-07,
+		"HighestInfectionCount" : 173702,
+		"PercentPopulationInfected" : 8.35534784206506
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-23,
+		"HighestInfectionCount" : 968107,
+		"PercentPopulationInfected" : 8.353227578894762
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-13,
+		"HighestInfectionCount" : 27644880,
+		"PercentPopulationInfected" : 8.351860702793715
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-16,
+		"HighestInfectionCount" : 360249,
+		"PercentPopulationInfected" : 8.349209042062053
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-10,
+		"HighestInfectionCount" : 52431,
+		"PercentPopulationInfected" : 8.348061178673442
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-21,
+		"HighestInfectionCount" : 2833,
+		"PercentPopulationInfected" : 8.347574989687075
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-10,
+		"HighestInfectionCount" : 52247,
+		"PercentPopulationInfected" : 8.346486127263665
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-06,
+		"HighestInfectionCount" : 110680,
+		"PercentPopulationInfected" : 8.343516474072757
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-13,
+		"HighestInfectionCount" : 721846,
+		"PercentPopulationInfected" : 8.339698234922576
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-15,
+		"HighestInfectionCount" : 359830,
+		"PercentPopulationInfected" : 8.339498207087843
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-18,
+		"HighestInfectionCount" : 1428440,
+		"PercentPopulationInfected" : 8.336449298457012
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-03-28,
+		"HighestInfectionCount" : 141845,
+		"PercentPopulationInfected" : 8.336061185378556
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-07,
+		"HighestInfectionCount" : 841807,
+		"PercentPopulationInfected" : 8.335325226476765
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-14,
+		"HighestInfectionCount" : 359516,
+		"PercentPopulationInfected" : 8.332220874911467
+	},
+	{
+		"Location" : France,
+		"Population" : 68147687,
+		"date" : 2021-04-30,
+		"HighestInfectionCount" : 5677835,
+		"PercentPopulationInfected" : 8.33166208561121
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-06,
+		"HighestInfectionCount" : 173201,
+		"PercentPopulationInfected" : 8.331248929738925
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 226783,
+		"PercentPopulationInfected" : 8.330593606634999
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-18,
+		"HighestInfectionCount" : 891852,
+		"PercentPopulationInfected" : 8.328074507922414
+	},
+	{
+		"Location" : Serbia,
+		"Population" : 6804596,
+		"date" : 2021-03-24,
+		"HighestInfectionCount" : 566669,
+		"PercentPopulationInfected" : 8.327739075178012
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-12,
+		"HighestInfectionCount" : 27557758,
+		"PercentPopulationInfected" : 8.32554006735783
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-13,
+		"HighestInfectionCount" : 359121,
+		"PercentPopulationInfected" : 8.32306626914819
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-22,
+		"HighestInfectionCount" : 964526,
+		"PercentPopulationInfected" : 8.32232922988993
+	},
+	{
+		"Location" : Andorra,
+		"Population" : 77265,
+		"date" : 2020-11-25,
+		"HighestInfectionCount" : 6428,
+		"PercentPopulationInfected" : 8.31942017731185
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-12,
+		"HighestInfectionCount" : 358792,
+		"PercentPopulationInfected" : 8.315441293714981
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 358611,
+		"PercentPopulationInfected" : 8.311246398415859
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-09,
+		"HighestInfectionCount" : 52022,
+		"PercentPopulationInfected" : 8.310542257211138
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-11,
+		"HighestInfectionCount" : 226173,
+		"PercentPopulationInfected" : 8.308186009504496
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 358377,
+		"PercentPopulationInfected" : 8.305823163609261
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-12,
+		"HighestInfectionCount" : 718746,
+		"PercentPopulationInfected" : 8.303883027069018
+	},
+	{
+		"Location" : Czechia,
+		"Population" : 10708982,
+		"date" : 2021-01-17,
+		"HighestInfectionCount" : 889159,
+		"PercentPopulationInfected" : 8.302927393098617
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-09,
+		"HighestInfectionCount" : 358098,
+		"PercentPopulationInfected" : 8.299356999032161
+	},
+	{
+		"Location" : France,
+		"Population" : 68147687,
+		"date" : 2021-04-29,
+		"HighestInfectionCount" : 5653533,
+		"PercentPopulationInfected" : 8.296001300821846
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-11,
+		"HighestInfectionCount" : 27458120,
+		"PercentPopulationInfected" : 8.295438193278255
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-20,
+		"HighestInfectionCount" : 2815,
+		"PercentPopulationInfected" : 8.294537097059344
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-08,
+		"HighestInfectionCount" : 357704,
+		"PercentPopulationInfected" : 8.290225569486006
+	},
+	{
+		"Location" : Slovenia,
+		"Population" : 2078932,
+		"date" : 2021-02-05,
+		"HighestInfectionCount" : 172299,
+		"PercentPopulationInfected" : 8.287861267227596
+	},
+	{
+		"Location" : Luxembourg,
+		"Population" : 625976,
+		"date" : 2021-02-08,
+		"HighestInfectionCount" : 51879,
+		"PercentPopulationInfected" : 8.28769793091109
+	},
+	{
+		"Location" : Netherlands,
+		"Population" : 17134873,
+		"date" : 2021-04-17,
+		"HighestInfectionCount" : 1419871,
+		"PercentPopulationInfected" : 8.28644017379061
+	},
+	{
+		"Location" : Belgium,
+		"Population" : 11589616,
+		"date" : 2021-04-21,
+		"HighestInfectionCount" : 960169,
+		"PercentPopulationInfected" : 8.284735231952466
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-07,
+		"HighestInfectionCount" : 357277,
+		"PercentPopulationInfected" : 8.28032932477482
+	},
+	{
+		"Location" : Montenegro,
+		"Population" : 628062,
+		"date" : 2021-01-09,
+		"HighestInfectionCount" : 51999,
+		"PercentPopulationInfected" : 8.279278160436391
+	},
+	{
+		"Location" : Lithuania,
+		"Population" : 2722291,
+		"date" : 2021-04-10,
+		"HighestInfectionCount" : 225308,
+		"PercentPopulationInfected" : 8.276411302098124
+	},
+	{
+		"Location" : Estonia,
+		"Population" : 1326539,
+		"date" : 2021-04-05,
+		"HighestInfectionCount" : 109781,
+		"PercentPopulationInfected" : 8.275746133359064
+	},
+	{
+		"Location" : Bahrain,
+		"Population" : 1701583,
+		"date" : 2021-03-27,
+		"HighestInfectionCount" : 140818,
+		"PercentPopulationInfected" : 8.275705622352833
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-06,
+		"HighestInfectionCount" : 356913,
+		"PercentPopulationInfected" : 8.271893181742332
+	},
+	{
+		"Location" : Sweden,
+		"Population" : 10099270,
+		"date" : 2021-04-06,
+		"HighestInfectionCount" : 834993,
+		"PercentPopulationInfected" : 8.267855003381433
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-05,
+		"HighestInfectionCount" : 356556,
+		"PercentPopulationInfected" : 8.2636192722297
+	},
+	{
+		"Location" : United States,
+		"Population" : 331002647,
+		"date" : 2021-02-10,
+		"HighestInfectionCount" : 27352360,
+		"PercentPopulationInfected" : 8.263486787161554
+	},
+	{
+		"Location" : Panama,
+		"Population" : 4314768,
+		"date" : 2021-04-04,
+		"HighestInfectionCount" : 356377,
+		"PercentPopulationInfected" : 8.259470729364823
+	},
+	{
+		"Location" : San Marino,
+		"Population" : 33938,
+		"date" : 2021-01-19,
+		"HighestInfectionCount" : 2803,
+		"PercentPopulationInfected" : 8.259178501974187
+	},
+	{
+		"Location" : Israel,
+		"Population" : 8655541,
+		"date" : 2021-02-11,
+		"HighestInfectionCount" : 714812,
+		"PercentPopulationInfected" : 8.258432372973566
+	},
+	{
+		"Location" : France,
+		"Population" : 68147687,
+		"date" : 2021-04-28,
+		"HighestInfectionCount" : 5626985,
+		"PercentPopulationInfected" : 8.257044732860852
+	}
+]

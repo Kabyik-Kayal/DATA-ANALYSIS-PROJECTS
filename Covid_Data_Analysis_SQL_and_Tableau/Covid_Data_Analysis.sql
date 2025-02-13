@@ -28,7 +28,12 @@ Select Location, Population, max(total_cases) as HighestInfectionCount, max((tot
 From covid_deaths.covid_deaths
 Group by Location, Population
 Order by PercentPopulationInfected desc ;
- 
+
+Select Location, Population, date, max(total_cases) as HighestInfectionCount, max((total_cases/population))*100 as PercentPopulationInfected
+From covid_deaths.covid_deaths
+Group by Location, Population, date
+Order by PercentPopulationInfected desc ;
+  
  # Showing Countries with Highest Death Count per Population
  Select Location, MAX(cast(Total_deaths as unsigned)) as Total_Death_Count
  from covid_deaths.covid_deaths
@@ -45,7 +50,7 @@ Order by PercentPopulationInfected desc ;
  
 
 # Looking at Total Cases vs Total Deaths Globally
-Select  sum(cast(total_cases as unsigned )) as total_cases, sum(cast(total_deaths as unsigned)) as total_deaths, (sum(cast(total_deaths as unsigned))/sum(cast(total_cases as unsigned )))*100 as DeathPercentage
+Select  max(cast(total_cases as unsigned )) as total_cases, max(cast(total_deaths as unsigned)) as total_deaths, (max(cast(total_deaths as unsigned))/max(cast(total_cases as unsigned )))*100 as DeathPercentage
 From covid_deaths.covid_deaths
 where continent is not null
 order by 1,2 ;
