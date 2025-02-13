@@ -22,11 +22,13 @@
 - 🎯 Performance Metrics
 - 📈 Workforce Analytics
 
-### 💾 SQL Data Analysis
+### 💾 Covid Data Analysis With SQL and Tableau
 - 🦠 COVID-19 Data Analysis
 - 🔄 MySQL Integration
 - ⚡ Data Ingestion Workflows
 - 🔍 Query Optimization
+- 📊 Interactive Dashboards
+- 🌍 Geographic Mapping
 
 ### 🚗 Uber Data Analysis
 - 📊 Ride Pattern Analysis
