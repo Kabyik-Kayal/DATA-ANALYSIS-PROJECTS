@@ -6,3 +6,16 @@
 *.pbix linguist-language=PowerBI
 *.twb linguist-language=Tableau
 *.twbx linguist-language=Tableau
+
+# Exclude entire directories
+/exports/ linguist-vendored
+/build/ linguist-vendored
+/reports/ linguist-vendored
+
+# Exclude specific HTML patterns
+*.report.html linguist-generated
+*.Report.html linguist-generated
+*_export.html linguist-generated
+
+# Allow only intentional HTML
+!/src/*.html  # Keep HTML in src/
