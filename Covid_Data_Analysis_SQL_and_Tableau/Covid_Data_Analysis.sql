@@ -31,13 +31,15 @@ Order by PercentPopulationInfected desc ;
 
 Select Location, Population, date, max(total_cases) as HighestInfectionCount, max((total_cases/population))*100 as PercentPopulationInfected
 From covid_deaths.covid_deaths
+where location not in ('Asia','Africa','World','Europe','European Union','North America', 'South America', 'Oceania', 'International')
 Group by Location, Population, date
-Order by PercentPopulationInfected desc ;
+Order by PercentPopulationInfected desc 
+limit 100000;
   
  # Showing Countries with Highest Death Count per Population
  Select Location, MAX(cast(Total_deaths as unsigned)) as Total_Death_Count
  from covid_deaths.covid_deaths
- where Location not in ('Asia','World','Europe','European Union','North America', 'South America', 'Oceania')
+ where Location not in ('Asia','Africa','World','Europe','European Union','North America', 'South America', 'Oceania')
  group by Location
  order by Total_Death_Count desc ;
  
