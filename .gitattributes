@@ -1,0 +1,8 @@
+# Force SQL detection
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Force PowerBi and Tableau detection
+*.pbix linguist-language=PowerBI
+*.twb linguist-language=Tableau
+*.twbx linguist-language=Tableau
