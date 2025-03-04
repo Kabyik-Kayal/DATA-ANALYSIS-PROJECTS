@@ -30,7 +30,7 @@ This repository contains comprehensive Power BI dashboard for HR data analysis, 
 3. Open The Dashboard
 
 ## 📄 License
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](/License)
 
 ---
 <div align="center">
