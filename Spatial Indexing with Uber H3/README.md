@@ -9,7 +9,8 @@ H3 is a hierarchical geospatial indexing system that partitions the world into h
 ## Detailed Blog
 
 This Project is published as a detailed article on the Analytics Vidhya Platform as a part of Blogathon by Kabyik Kayal.
-Article Link = [Coming Soon]
+
+Article Link = [Click](https://www.analyticsvidhya.com/blog/2025/03/ubers-h3-for-spatial-indexing/)
 
 ## Table of Contents
 
@@ -81,7 +82,7 @@ neighbors = h3.k_ring(h3_index, 1)
 
 ## License
 
-This guide is provided under the MIT License. H3 itself is licensed under the Apache 2.0 License.
+This guide is provided under the [MIT License](/License). H3 itself is licensed under the Apache 2.0 License.
 
 ## Contributing
 
